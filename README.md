@@ -1,5 +1,5 @@
 # Manchester Codes Student Roster
 
-## Example Cohort
+## February 2019 Cohort
 
 - [Tom Bilbe](/february2019/tom-b.md)
