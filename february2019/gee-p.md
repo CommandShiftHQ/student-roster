@@ -1,0 +1,4 @@
+- Name: Gee Patel
+- Likes: Basketball, MUFC, Tea, Reggae. 
+- Dislikes: Gin, Early mornings. 
+- Favourite Quote: "You are either at the table, or on the menu". 
