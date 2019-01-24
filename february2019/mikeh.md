@@ -1,0 +1,4 @@
+- Name:Mike Huggins
+- Likes:Sleep, beer and long walks
+- Dislikes:long walks off a short pier
+- Favourite Quote:"all generalisations are false"
