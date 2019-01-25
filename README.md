@@ -7,3 +7,5 @@
 - [Andrea Hurren](/february2019/andrea-h.md)
 - [Mike Huggins](/february2019/mikeh.md)
 - [Mark Lees](february2019/mark-l.md)
+- [Russell Parry](/febuary2019/russell-p.md)
+

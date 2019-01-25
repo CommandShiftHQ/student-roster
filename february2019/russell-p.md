@@ -1,0 +1,4 @@
+- Name: Russell Parry
+- Likes: Swimming, cycling, running and coding!
+- Dislikes: Mushrooms
+- Favourite Quote: 'If it were easy, everyone would do it.'
