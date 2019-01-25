@@ -6,4 +6,4 @@
 - [Gee Patel](/february2019/gee-p.md)
 - [Andrea Hurren](/february2019/andrea-h.md)
 - [Mike Huggins](/february2019/mikeh.md)
-- [Mark Lees](febuary2019/mark-l.md)
+- [Mark Lees](february2019/mark-l.md)
