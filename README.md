@@ -6,5 +6,5 @@
 - [Gee Patel](/february2019/gee-p.md)
 - [Andrea Hurren](/february2019/andrea-h.md)
 - [Mike Huggins](/february2019/mikeh.md)
-- [Russell Parry](/febuary2019/russell-p.md)
+- [Russell Parry](/february2019/russell-p.md)
 - [Mark Lees](febuary2019/mark-l.md)
