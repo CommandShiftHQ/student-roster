@@ -1,0 +1,4 @@
+- Name: Sam Jones
+- Likes: gaming, football, rock
+- Dislikes: low battery, Jimmy Carr
+- Favourite Quote: "The good news about computers is that they do what you tell them to do. The bad    news is that they do what you tell them to do."

@@ -8,6 +8,6 @@
 - [Mike Huggins](/february2019/mikeh.md)
 - [Russell Parry](/february2019/russell-p.md)
 - [Mark Lees](/february2019/mark-l.md)
-
+- [Sam Jones](/february2019/sam-j.md)
 
 
