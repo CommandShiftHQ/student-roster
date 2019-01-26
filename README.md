@@ -9,5 +9,6 @@
 - [Russell Parry](/february2019/russell-p.md)
 - [Mark Lees](/february2019/mark-l.md)
 - [Sam Jones](/february2019/sam-j.md)
+- [Jack Pearsall](/february2019/jack-p.md)
 
 

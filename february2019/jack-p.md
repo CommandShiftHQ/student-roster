@@ -1,0 +1,4 @@
+- Name: Jack Pearsall
+- Likes: Mountain Biking, Music, Computers
+- Dislikes: Early mornings
+- Favourite Quote: "A wrong decision is better than indecision"
