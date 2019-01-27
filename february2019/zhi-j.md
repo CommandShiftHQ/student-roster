@@ -1,0 +1,4 @@
+- Name: Zhi Jiang
+- Likes: Gaming, Sleeping, Movies
+- Dislikes: Rainning day, Vegetables
+- Favourite Quote: "Whoever is happy will make others happy too."
