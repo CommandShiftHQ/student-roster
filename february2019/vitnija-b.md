@@ -1,0 +1,4 @@
+- Name: Vitnija Bluzma
+- Likes: rock music, adventure books, cats
+- Dislikes: celery
+- Favourite Quote: "In fact, not a shred of evidence exists in favor of the argument that life is serious." - Brendan Gill

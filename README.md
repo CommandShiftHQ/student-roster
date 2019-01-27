@@ -11,3 +11,4 @@
 - [Sam Jones](/february2019/sam-j.md)
 - [Jack Pearsall](/february2019/jack-p.md)
 - [Zhi Jiang](february2019/zhi-j.md)
+- [Vitnija Bluzma](february2019/vitnija-b.md)
