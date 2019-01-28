@@ -1,4 +1,4 @@
 - Name:Jane Nyamuchiwa
 - Likes: Music/concerts, Gadgets, Netflix, Football, Travelling,Food
-- Dislikes: Being cold, Long journeys, internet trolls, Negativity
+- Dislikes:  Being cold, Long journeys, internet trolls, Negativity
 - Favourite Quote: Find a job you enjoy doing, and you will never have to work a day in your life!

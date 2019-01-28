@@ -12,4 +12,4 @@
 - [Jack Pearsall](/february2019/jack-p.md)
 - [Zhi Jiang](february2019/zhi-j.md)
 - [Vitnija Bluzma](february2019/vitnija-b.md)
-- [Jane Nyamuchiwa](/february2019/Jane-N.md)
+- [Jane Nyamuchiwa](/february2019/Jane-n.md)
