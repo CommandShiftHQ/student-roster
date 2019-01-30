@@ -1,0 +1,4 @@
+- Name: Richard Pentecost
+- Likes: Skiing, golf, football, pubs
+- Dislikes: Commuting, mornings
+- Favourite Quote: 'If you can't be good, be lucky!'
