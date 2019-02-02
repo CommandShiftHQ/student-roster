@@ -13,4 +13,4 @@
 - [Zhi Jiang](february2019/zhi-j.md)
 - [Vitnija Bluzma](february2019/vitnija-b.md)
 - [Jane Nyamuchiwa](/february2019/Jane-n.md)
-- [Richard Pentecost] (/february2019/richard-p.md)
+- [Richard Pentecost](/february2019/richard-p.md)
