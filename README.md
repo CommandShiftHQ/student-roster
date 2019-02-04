@@ -14,3 +14,4 @@
 - [Vitnija Bluzma](february2019/vitnija-b.md)
 - [Jane Nyamuchiwa](/february2019/Jane-n.md)
 - [Richard Pentecost](/february2019/rich-p.md)
+- [Muhammed Ali Ghori](/february2019/MuhammedAli-G.md)

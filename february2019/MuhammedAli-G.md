@@ -1,0 +1,4 @@
+- Name: Muhammed Ali Ghori
+- Likes: family, friends, good food & beach holidays
+- Dislikes: prejudice
+- Favourite Quote: "No" - Rosa Parks
