@@ -1,0 +1,4 @@
+- Name: Rachael O-K
+- Likes: Cats, Disney, winter & coffee
+- Dislikes: Flying, mcr > salford commute, noise
+- Favourite Quote: “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” 

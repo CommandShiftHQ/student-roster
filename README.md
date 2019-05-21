@@ -15,3 +15,7 @@
 - [Jane Nyamuchiwa](/february2019/Jane-n.md)
 - [Richard Pentecost](/february2019/rich-p.md)
 - [Muhammed Ali Ghori](/february2019/MuhammedAli-G.md)
+
+## June 2019 Cohort
+
+- [Rachael Oldham-Knott](june2019/rachael-o.md)
