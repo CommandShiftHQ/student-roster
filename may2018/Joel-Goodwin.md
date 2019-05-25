@@ -1,0 +1,4 @@
+- Name: Joel Goodwin
+- Likes: United, Vinyl Mixing, Peep Show
+- Dislikes: Dawdlers, Quiche, Citeh
+- Favourite Quote: People like Coldplay and voted for the Nazis, you can't trust people Jeremy!
