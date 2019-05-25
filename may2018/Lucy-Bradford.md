@@ -1,0 +1,4 @@
+- Name:Lucy Bradford
+- Likes: Chocolate, pease and quiet and crochet
+- Dislikes: Spiders and being woken up a few mins before my alarm goes off
+- Favourite Quote: 'Joey doesn't share food!' - Joey, Friends.
