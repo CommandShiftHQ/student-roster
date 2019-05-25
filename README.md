@@ -17,7 +17,7 @@
 - [Muhammed Ali Ghori](/february2019/MuhammedAli-G.md)
 
 ## June 2019 Cohort
-
+- [Nadia Amroon] (june2019/Nadia-A.md)
 - [Rachael Oldham-Knott](june2019/rachael-o.md)
 <<<<<<< HEAD
 - [Jasmine Amber Patel](june2019/Jasmine-A.md)
