@@ -16,6 +16,17 @@
 - [George Duckworth](/may2018/george-duckworth.md)
 - [Tom Dunn](/may2018/tom-dunn.md)
 
+## July 2018 Cohort
+
+- [Ian King](/july2018/ian-king.md)
+- [Georgia Hughes](/july2018/georgia-hughes.md)
+- [Emily Sayle](/july2018/emily-sayle.md)
+- [Luke Brannagan](/july2018/Luke-Brannagan.md)
+- [Ryan Brockley](/july2018/Ryan-Brockley.md)
+- [Jonny Edge](/july2018/Jonny-Edge.md)
+- [Matthew Edwards](/july2018/Matthew-Edwards.md)
+- [Megan Ryder](/july2018/megan-ryder.md)
+
 ## February 2019 Cohort
 
 - [Tom Bilbe](/february2019/tom-b.md)
