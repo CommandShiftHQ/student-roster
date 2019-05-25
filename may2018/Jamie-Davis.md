@@ -1,0 +1,4 @@
+- Name: Jamie Davis
+- Likes: Travelling, Planes, Trains, PS4, Superhero Movies, Laptop, Daft Punk
+- Dislikes: The Simpsons - season 10+, Milk, Carrots
+- Favourite Quote: It was the best of times, it was the blurst of times. - Mr Burns

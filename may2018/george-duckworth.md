@@ -1,0 +1,4 @@
+- Name: George Duckworth
+- Likes: Gym/Running
+- Dislikes: Tomatoes
+- Favourite Quote: "It always seems impossible until it's done. " - Nelson Mandela

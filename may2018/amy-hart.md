@@ -1,0 +1,4 @@
+- Name: Amy Hart
+- Likes: Tea, pizza, bad jokes and puns, good doggos, creating infinite loops, JavaScript snow at the Christmas time.
+- Dislikes: Poorly made tea, burnt pizza, insects, bad doggos, the depreciation of HTML blink.
+- Favourite Quote: How about a song lyric instead? "stop stop talking 'bout who's to blame, when all that counts is how to change" - (James - Born of frustration, 1992)

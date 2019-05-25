@@ -1,5 +1,21 @@
 # Manchester Codes Student Roster
 
+## May 2018 Cohort
+
+- [Linda Tamakaha](/may2018/Linda-Tamakaha.md)
+- [Stephen Royle](/may2018/stephen-royle.md)
+- [Nick McAlpine](/may2018/Nick-McAlpine.md)
+- [Gaz Ellis](/may2018/gaz-ellis.md)
+- [Elena Stagg](/may2018/elena-stagg.md)
+- [Joel Goodwin](/may2018/Joel-Goodwin.md)
+- [Benjamin Mason-Gallagher](/may2018/Benjamin-Mason-Gallagher.md)
+- [Daniel Cross](/may2018/daniel-cross.md)
+- [Jamie Davis](/may2018/jamie-davis.md)
+- [Lucy Bradford](/may2018/Lucy-Bradford.md)
+- [Carrie Dennett](/may2018/carrie-dennett.md)
+- [George Duckworth](/may2018/george-duckworth.md)
+- [Tom Dunn](/may2018/tom-dunn.md)
+
 ## February 2019 Cohort
 
 - [Tom Bilbe](/february2019/tom-b.md)

@@ -1,0 +1,4 @@
+- Name:Linda Tamakaha
+- Likes:food, sun , sea, crossfit, weightlifting, most sports, learning to code, bingeing on  netflix, travelling around this beautiful world of ours
+- Dislikes: Rude people
+- Favourite Quote: 'be the change you want to see in the world'.

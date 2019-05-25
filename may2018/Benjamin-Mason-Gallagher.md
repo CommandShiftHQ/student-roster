@@ -1,0 +1,4 @@
+- Name: Benjamin Mason-Gallagher
+- Likes: Muay Thai, Travelling, Thai Food, Biscuits, Summer, Reading, Coding, Rum
+- Dislikes: My job, Olives, Water Cuts, Train Prices
+- Favourite Quote: 'Education is the passport to the future, for tomorrow belongs to those who prepare for it today.' - Malcom X
