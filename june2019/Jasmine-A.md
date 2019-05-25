@@ -1,0 +1,5 @@
+- Name: Jasmine Amber
+- Likes: Going out for breakfast, summer, travel
+- Dislikes: Being cold
+- Favourite Quote: “Life is either a daring adventure or nothing.”
+- GitHub Profile URL: https://github.com/JasmineAmberPatel
