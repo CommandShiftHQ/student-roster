@@ -19,3 +19,4 @@
 ## June 2019 Cohort
 
 - [Rachael Oldham-Knott](june2019/rachael-o.md)
+- [Jasmine Amber Patel](june2019/Jasmine-A.md)
