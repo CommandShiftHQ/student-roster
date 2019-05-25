@@ -1,0 +1,4 @@
+- Name:Matthew Edwards
+- Likes: Techno
+- Dislikes: Most beer
+- Favourite Quote: When the power of hummus overcomes the love of power the world will know peace. - Jimi Hendrix

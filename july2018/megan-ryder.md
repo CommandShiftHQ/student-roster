@@ -1,0 +1,4 @@
+- Name:Megan Ryder
+- Likes: Sushi, Graphic Design, Miss Vanjee
+- Dislikes: Hollyoaks, people who say 'specific ocean' ITS PACIFIC. 
+- Favourite Quote: 'Grab your problems by the neck like John Cena' - Me.

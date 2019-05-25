@@ -1,0 +1,4 @@
+- Name: Ryan Brockley
+- Likes: Coding, Music, Gaming and anything geeky
+- Dislikes: Carrots and boiled sweets
+- Favourite Quote: "Id rather be hated for who i am than loved for who im not" - Curt Cobain.

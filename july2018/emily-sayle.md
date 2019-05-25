@@ -1,0 +1,4 @@
+- Name: Emily Sayle
+- Likes: Stephen King and Cheese    
+- Dislikes: Nightmares
+- Favourite Quote: "you're gonna need a bigger boat" - Chief Martin Brody

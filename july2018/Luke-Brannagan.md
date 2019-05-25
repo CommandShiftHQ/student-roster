@@ -1,0 +1,4 @@
+- Name: Luke Brannagan
+- Likes: Gaming, Coding and Music
+- Dislikes: Stone Roses & Sprouts.
+- Favourite Quote: "A man who dares to waste one hour of time has not discovered the value of life" - Charles Darwin

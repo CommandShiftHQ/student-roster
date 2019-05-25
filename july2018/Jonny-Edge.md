@@ -1,0 +1,4 @@
+- Name: Jonny Edge
+- Likes: People Are Awesome's YouTube channel
+- Dislikes: Brexit, Love Island and slow walking people
+- Favourite Quote: "Ed Balls." – Ed Balls' first ever tweet
