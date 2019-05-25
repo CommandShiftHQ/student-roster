@@ -1,0 +1,4 @@
+- Name: Katarina Uvanovic
+- Likes: Books, animals
+- Dislikes: Heights, spiders and snakes
+- Favourite Quote: “Be yourself, everyone else is already taken.” 

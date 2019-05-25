@@ -19,4 +19,8 @@
 ## June 2019 Cohort
 
 - [Rachael Oldham-Knott](june2019/rachael-o.md)
+<<<<<<< HEAD
 - [Jasmine Amber Patel](june2019/Jasmine-A.md)
+=======
+- [Katarina Uvanovic](june2019/kate-u.md)
+>>>>>>> 75911effb769e25be5bfbba88127d069a86f1219
