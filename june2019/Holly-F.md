@@ -1,0 +1,5 @@
+- Name: Holly Fanthorpe
+- Likes: Cats, cross stitch & eating out
+- Dislikes: Being late, the extremely loud geese outside my flat & most forms of physical exercise
+- Favourite Quote: If you can't handle me at my my palms are sweaty, you don't deserve me at my mom's spaghetti 
+- GitHub Profile URL: https://github.com/HollyRebekah 
