@@ -50,4 +50,8 @@
 - [Jasmine Amber Patel](june2019/Jasmine-A.md)
 - [Katarina Uvanovic](june2019/kate-u.md)
 - [Holly Fanthorpe](june2019/Holly-F.md)
+<<<<<<< HEAD
 - [Lukasz Orzechowski](june2019/Lukasz-O.md)
+=======
+- [Vinicius Prado](june2019/vini-prado.md)
+>>>>>>> 0f99a7754f0a128455306bc98cc94b0c822ef0ac
