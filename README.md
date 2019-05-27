@@ -50,3 +50,4 @@
 - [Jasmine Amber Patel](june2019/Jasmine-A.md)
 - [Katarina Uvanovic](june2019/kate-u.md)
 - [Holly Fanthorpe](june2019/Holly-F.md)
+- [Vinicius Prado](june2019/vini-prado.md)
