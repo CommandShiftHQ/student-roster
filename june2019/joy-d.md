@@ -1,0 +1,5 @@
+- Name: Joy Dutta
+- Likes: Travelling, reading, technology
+- Dislikes: ...
+- Favourite Quote: After climbing a great hill, one only finds that there are many more hills to climb.
+- GitHub Profile URL: https://github.com/Jaidutta
