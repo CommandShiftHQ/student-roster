@@ -1,0 +1,5 @@
+- Name: Lukasz Orzechowski  
+- Likes: Dogs, Camping, Coffee
+- Dislikes:  dishonesty
+- Favourite Quote: “Maybe we have to break ourselves to make something better out of ourselves” -Chuck Palahniuk
+- GitHub Profile URL: https:// https://github.com/nutbum05
