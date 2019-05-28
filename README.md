@@ -52,3 +52,4 @@
 - [Holly Fanthorpe](june2019/Holly-F.md)
 - [Lukasz Orzechowski](june2019/Lukasz-O.md)
 - [Vinicius Prado](june2019/vini-prado.md)
+- [Cai Jenkins](june2012/Cai-J.md) 
