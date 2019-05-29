@@ -50,6 +50,8 @@
 - [Jasmine Amber Patel](june2019/Jasmine-A.md)
 - [Katarina Uvanovic](june2019/kate-u.md)
 - [Holly Fanthorpe](june2019/Holly-F.md)
+- [Nathan Saide](june2019/nathan-s.md)
 - [Lukasz Orzechowski](june2019/Lukasz-O.md)
 - [Vinicius Prado](june2019/vini-prado.md)
 - [Joy Dutta](june2019/joy-d.md)
+- [Cai Jenkins](june2019/Cai-J.md) 

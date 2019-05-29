@@ -1,5 +1,5 @@
-- Name:
+- Name: 
 - Likes: 
 - Dislikes: 
 - Favourite Quote: 
-- GitHub Profile URL: https://
+- GitHub Profile URL: 

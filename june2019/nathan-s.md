@@ -1,0 +1,5 @@
+- Name: nathan saide                
+- Likes: cycling and bicycles . . . .  and metal 
+- Dislikes: not cycling 
+- Favourite Quote: "cycling doesn't get easier you just go faster. . . "
+- GitHub Profile URL: https://github.com/inkyysleeves
