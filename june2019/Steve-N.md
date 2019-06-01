@@ -1,0 +1,5 @@
+- Name: Steve Nelson
+- Likes: Fine wine, snowboarding, progessive death metal
+- Dislikes: The youth of today, tangled wires, capitalism
+- Favourite Quote: 'The only true wisdom is in knowing you know nothing', Socrates
+- GitHub Profile URL: https://github.com/SteveNelson83

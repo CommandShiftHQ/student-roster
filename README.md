@@ -55,3 +55,4 @@
 - [Vinicius Prado](june2019/vini-prado.md)
 - [Joy Dutta](june2019/joy-d.md)
 - [Cai Jenkins](june2019/Cai-J.md) 
+- [Steve Nelson](june2019/Steve-N.md)
