@@ -1,0 +1,5 @@
+- Name: Haris Amjad 
+- Likes: Football, Fortnite and Manchester United 
+- Dislikes: Traffic
+- Favourite Quote: "Today i went shopping and talk is still cheap" - Lil Wayne
+- GitHub Profile URL: https://github.com/Haris187
