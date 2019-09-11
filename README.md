@@ -60,4 +60,4 @@
 
 ## September 2019 Cohort
 
-- [Rui Correia] (/september2019/rui-c.md)
+- [Rui Correia](/september2019/rui-c.md)
