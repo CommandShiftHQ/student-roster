@@ -57,3 +57,7 @@
 - [Cai Jenkins](june2019/Cai-J.md) 
 - [Steve Nelson](june2019/Steve-N.md)
 - [Haris Amjad](june2019/haris-a.md)
+
+## September 2019 Cohort
+
+- [Rui Correia] (/september2019/rui-c.md)

@@ -1,0 +1,5 @@
+- Name: Rui Miguel Correia
+- Likes: Football(United \m/), Cats, Ice Cream
+- Dislikes: Mondays (right?)
+- Favourite Quote: "Tell me and I forget, teach me and I may remember, involve me and I learn."(Benjamin Franklin)
+- GitHub Profile URL: 
