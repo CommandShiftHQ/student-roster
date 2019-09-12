@@ -62,3 +62,4 @@
 
 - [Rui Correia](/september2019/rui-c.md)
 - [Ashley Knox](/september2019/ashley-k.md)
+- [Jenny Ardrey](/september2019/jenny-a.md)
