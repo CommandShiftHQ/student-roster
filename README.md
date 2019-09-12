@@ -61,3 +61,4 @@
 ## September 2019 Cohort
 
 - [Rui Correia](/september2019/rui-c.md)
+- [Ashley Knox](/september2019/ashley-k.md)
