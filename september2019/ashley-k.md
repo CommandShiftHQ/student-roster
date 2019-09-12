@@ -1,0 +1,5 @@
+- Name: Ashley Knox
+- Likes: hot food, cold weather, coffee!
+- Dislikes: sleeping, hot weather.
+- Favourite Quote: 'Whatever Happens, Happens'
+- GitHub Profile URL: Thatresolvestcg
