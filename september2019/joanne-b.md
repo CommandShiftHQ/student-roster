@@ -1,0 +1,5 @@
+- Name: Joanne G. Basa
+- Likes: everything Harry Potter, crime/thriller novels/movies, mostly anything geeky, coffee/tea
+- Dislikes: Nigel Farage & Brexit (not even sorry about this), bullying, junk mail
+- Favourite Quote: "Calm seas never made a good sailor" - Franklin D. Roosevelt
+- GitHub Profile URL: https://github.com/joannebasa
