@@ -1,0 +1,5 @@
+- Name: Jo Smith
+- Likes: Pizza, craft ale, travelling
+- Dislikes: mushrooms
+- Favourite Quote: Those who dare to fail miserably can achieve greatly - John F.Kennedy
+- GitHub Profile URL: https://github.com/tijuana2019
