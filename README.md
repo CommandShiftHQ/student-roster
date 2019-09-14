@@ -66,3 +66,5 @@
 - [Joanne Basa](/september2019/joanne-b.md)
 - [Samuel Millward](/september2019/samuel-m.md)
 - [Jo Smith](/september2019/jo-s.md)
+- [Jatinder Singh](/september2019/jatinder-s.md)
+
