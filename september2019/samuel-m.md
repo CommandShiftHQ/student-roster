@@ -1,0 +1,5 @@
+- Name: Sam Millward.    
+- Likes: Falafel, Cycling, Lizards.
+- Dislikes: Arsenal, Free Market Economics.
+- Favourite Quote: "This isn't 'Nam, this is bowling. There are rules!" -Walter Sobchak
+- GitHub Profile URL: github.com/samueljmillward

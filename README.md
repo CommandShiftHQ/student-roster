@@ -64,3 +64,4 @@
 - [Ashley Knox](/september2019/ashley-k.md)
 - [Jenny Ardrey](/september2019/jenny-a.md)
 - [Joanne Basa](/september2019/joanne-b.md)
+- [Samuel Millward](/september2019/samuel-m.md)
