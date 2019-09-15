@@ -1,0 +1,5 @@
+- Name: Sean Campbell
+- Likes: time with my kids, DJing, producing music
+- Dislikes: Bad manners
+- Favourite Quote: 'treat everyone the way you would like to be treated'
+- GitHub Profile URL: github.com/seansampel
