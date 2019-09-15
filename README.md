@@ -69,3 +69,4 @@
 - [Jatinder Singh](/september2019/jatinder-s.md)
 - [Sean Campbell](/september2019/sean-c.md) 
 - [Lucy Adams](/september2019/lucy-a.md)
+- [Gareth Beer](september2019/Gareth-B.md)
