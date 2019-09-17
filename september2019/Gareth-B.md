@@ -1,0 +1,5 @@
+- Name: Gareth Beer
+- Likes: Climbing, skiing, football, films and music
+- Dislikes: Corn on the cob
+- Favourite Quote: "Get busy living or get busy dying"
+- GitHub Profile URL: https://github.com/GarethBeer

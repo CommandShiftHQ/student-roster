@@ -1,0 +1,5 @@
+- Name: Lucy Adams  
+- Likes: Football (man utd fan), Dogs (have 2 whippets), films, holidays, cooking 
+- Dislikes: Not too much - gloomy weather, raw onion, politics (atm)
+- Favourite Quote: 'There are no two words in the English language more harmful than good job' - I don't buy into this, but it's a great movie quote! (JK Simmons in Whiplash)
+- GitHub Profile URL: https://github.com/lucya3584

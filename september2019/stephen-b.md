@@ -1,0 +1,5 @@
+- Name: Stephen Blair
+- Likes: Hybrid sea mammals
+- Dislikes: Most politicians
+- Favourite Quote: You ok, hun?
+- GitHub Profile URL: https://github.com/stephenjblair
