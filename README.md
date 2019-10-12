@@ -71,3 +71,4 @@
 - [Lucy Adams](/september2019/lucy-a.md)
 - [Gareth Beer](september2019/Gareth-B.md)
 - [Aidan Mueller](/september2019/Aidan-M.md)
+- [Denise Tench](september19/Denise-T.md)
