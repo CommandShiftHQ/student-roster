@@ -1,0 +1,5 @@
+- Name: Denise Tench
+- Likes: Purple, travelling, coffee.
+- Dislikes: Mayonnaise.
+- Favourite Quote: "Alright here?" - Withnail & I. 
+- GitHub Profile URL: - https://github.com/DeniseTench
