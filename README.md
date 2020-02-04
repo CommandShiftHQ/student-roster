@@ -76,3 +76,4 @@
 ## February 2020 Cohort
 
 - [Tim Douglas](february2020/tim-d.md)
+- [Justin Sandahl](february2020/justin-s.md)
