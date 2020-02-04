@@ -1,5 +1,5 @@
-- Name: 
-- Likes: 
-- Dislikes: 
-- Favourite Quote: 
-- GitHub Profile URL: 
+- Name: Tim Douglas
+- Likes: Flying, Games, Coding and Tea
+- Dislikes: Celery(cold), Negativity, English Mustard
+- Favourite Quote: “Suckin’ at something is the first step to being sorta good at something.” – Jake the Dog (Adventure Time)
+- GitHub Profile URL: https://github.com/TimmyDDthe1st
