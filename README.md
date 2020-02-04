@@ -73,6 +73,6 @@
 - [Aidan Mueller](/september2019/Aidan-M.md)
 - [Denise Tench](september19/Denise-T.md)
 
-## Example Cohort
+## February 2020 Cohort
 
 - [Tim Douglas](february2020/tim-d.md)
