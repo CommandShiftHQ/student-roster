@@ -1,0 +1,5 @@
+- Name:Mark R
+- Likes: Summer, Travel, Football, Cooking
+- Dislikes: Brussel Sprouts and Rudeness
+- Favourite Quote: Life is either a great adventure or nothing at all
+- GitHub Profile URL: https://github.com/markrea
