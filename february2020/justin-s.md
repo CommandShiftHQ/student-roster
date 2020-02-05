@@ -1,0 +1,5 @@
+- Name: Justin Sandahl
+- Likes: Travel, Coding, Ice-Hockey, Rock n' Roll \m/
+- Dislikes: no wifi, broken guitar strings 
+- Favourite Quote: "You miss 100% of the shots you never take." - Wayne Gretzky 
+- GitHub Profile URL: https://github.com/jdsandahl

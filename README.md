@@ -76,3 +76,6 @@
 ## February 2020 Cohort
 
 - [Andrei Hirleata](/february2020/andrei-h.md)
+- [Tim Douglas](february2020/tim-d.md)
+- [Justin Sandahl](february2020/justin-s.md)
+- [Joe Warner](Febuary2020/joe-w.md)
