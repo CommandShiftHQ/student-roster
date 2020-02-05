@@ -1,0 +1,5 @@
+- Name: Andrei	
+- Likes: Guitars	
+- Dislikes: winter
+- Favourite Quote: " 'tis but a scratch" - Monty Python and the Holy Grail	
+- GitHub Profile URL: https://github.com/andreihirleata

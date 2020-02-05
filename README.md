@@ -72,3 +72,7 @@
 - [Gareth Beer](september2019/Gareth-B.md)
 - [Aidan Mueller](/september2019/Aidan-M.md)
 - [Denise Tench](september19/Denise-T.md)
+
+## February 2020 Cohort
+
+- [Andrei Hirleata](/february2020/andrei-h.md)
