@@ -80,3 +80,4 @@
 - [Justin Sandahl](february2020/justin-s.md)
 - [Joe Warner](Febuary2020/joe-w.md)
 - [Mark Rea](february2020/mark-r.md)
+- [Zein Aji](february2020/zein-a.md)
