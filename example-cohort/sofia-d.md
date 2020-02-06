@@ -1,0 +1,5 @@
+- Name: Sofia Dionisio
+- Likes: Sports,Travel,Food
+- Dislikes: Rain
+- Favourite Quote: Put all you are into the smallest thing you do
+- GitHub Profile URL: https://github.com/sofia1701
