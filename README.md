@@ -82,3 +82,4 @@
 - [Mark Rea](february2020/mark-r.md)
 - [Zein Aji](february2020/zein-a.md)
 - [Sofia Dionisio](february2020/sofia-d.md)
+- [Shelby Harrison](february2020/Shelby-H.md)

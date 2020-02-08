@@ -1,0 +1,5 @@
+- Name: Shelby Harrison
+- Likes: Dogs
+- Dislikes: Spiders
+- Favourite Quote: Sometimes you've got to dance like no ones watching
+- GitHub Profile URL: https://github.com/Shelby568
