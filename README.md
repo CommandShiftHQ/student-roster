@@ -78,7 +78,7 @@
 - [Andrei Hirleata](/february2020/andrei-h.md)
 - [Tim Douglas](february2020/tim-d.md)
 - [Justin Sandahl](february2020/justin-s.md)
-- [Joe Warner](Febuary2020/joe-w.md)
+- [Joe Warner](february2020/joe-w.md)
 - [Mark Rea](february2020/mark-r.md)
 - [Zein Aji](february2020/zein-a.md)
 - [Sofia Dionisio](february2020/sofia-d.md)
