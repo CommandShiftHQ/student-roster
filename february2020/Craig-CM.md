@@ -1,0 +1,5 @@
+- Name: Craig Collis-McCann
+- Likes: Games, music & family
+- Dislikes: Spiders
+- Favourite Quote: Make Every Obstacle an Opportunity
+- GitHub Profile URL: https://github.com/CCollis-McCann
