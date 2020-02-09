@@ -84,4 +84,4 @@
 - [Sofia Dionisio](february2020/sofia-d.md)
 - [Shelby Harrison](february2020/Shelby-H.md)
 - [Aaron Hays](/february2020/aaron-h.md)
-- [Craig Collis-McCann] (february2020/Craig-CM.md)
+- [Craig McCann](/february2020/Craig-CM.md)
