@@ -1,0 +1,5 @@
+- Name: George Tarbuck
+- Likes: Sports, Quizshows, Pc Gaming, Food
+- Dislikes: The Rain
+- Favourite Quote: Hard work beats talent when talent doesn't work hard.” - Tim Notke
+- GitHub Profile URL: https://github.com/gtarbuck92

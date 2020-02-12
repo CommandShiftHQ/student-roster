@@ -86,3 +86,4 @@
 - [Aaron Hays](/february2020/aaron-h.md)
 - [Craig McCann](/february2020/Craig-CM.md)
 - [Sana Masood] (/february2020/Sana-M.md)
+- [George Tarbuck] (/february2020/George-T.md)
