@@ -88,3 +88,4 @@
 - [Sana Masood] (/february2020/Sana-M.md)
 - [George Tarbuck] (/february2020/George-T.md)
 - [Sana Masood](/february2020/Sana-M.md)
+- [Aniko Veiszhab](february2020/aniko.v.md)
