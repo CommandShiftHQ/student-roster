@@ -1,0 +1,5 @@
+- Name: Ethan Davis
+- Likes: Football (Mancehester United), my two dogs, Adidas 
+- Dislikes: Mushrooms, Liverpool Football Club
+- Favourite Quote: Football, bloody hell- Sir Alex Ferguson
+- GitHub Profile URL: https://github.com/ethanrdj
