@@ -85,11 +85,11 @@
 - [Shelby Harrison](february2020/Shelby-H.md)
 - [Aaron Hays](/february2020/aaron-h.md)
 - [Craig McCann](/february2020/Craig-CM.md)
-- [Sana Masood] (/february2020/Sana-M.md)
-- [George Tarbuck] (/february2020/George-T.md)
+- [Sana Masood](/february2020/Sana-M.md)
+- [George Tarbuck](/february2020/George-T.md)
 - [Sana Masood](/february2020/Sana-M.md)
 - [Aniko Veiszhab](february2020/aniko.v.md)
 
 ## March 2020 Cohort
 
-- [Joseph Bramwell] (/march2020/joseph-bramwell.md)
+- [Joseph Bramwell](/march2020/joseph-bramwell.md)
