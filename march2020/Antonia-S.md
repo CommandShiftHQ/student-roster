@@ -1,5 +1,5 @@
 - Name: Antonia Symeonidou
 - Likes: Social Media, Food, Relaxing
 - Dislikes: Doctors
-- Favourite Quote: "TThe moment you doubt whether you can fly, you cease forever to be able to do it."
+- Favourite Quote: "The moment you doubt whether you can fly, you cease forever to be able to do it."
 - GitHub Profile URL: https://github.com/antoniasymeonidou
