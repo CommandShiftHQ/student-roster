@@ -93,12 +93,7 @@
 ## March 2020 Cohort
 
 - [Joseph Bramwell](/march2020/joseph-bramwell.md)
-<<<<<<< HEAD
 - [Niall Greene](march2020/niallgreene7.md)
-=======
-<<<<<<< HEAD
 - [Szabina Kovacs](/march2020/szabina-k.md)
-=======
 - [Nick Marron](/march2020/Nick-M.md)
->>>>>>> d5ea4a5df0471cfdf5d8188e0447d7ff5bdc78cb
->>>>>>> e8622d4d3a7e090c859bb1fdddc9f171cfc2c975
+- [Ethan Davis](/march2020/ethan.md)
