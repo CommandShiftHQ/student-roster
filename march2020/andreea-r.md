@@ -1,0 +1,5 @@
+- Name: Andreea Ros
+- Likes: ginger cats, tortoiseshell cats, black cats, tea, Easter chocolate
+- Dislikes: sports (except running), hairless cats, spiders
+- Favourite Quote: "Meow!"
+- GitHub Profile URL: https://github.com/andrcatros
