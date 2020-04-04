@@ -93,3 +93,4 @@
 ## March 2020 Cohort
 
 - [Joseph Bramwell](/march2020/joseph-bramwell.md)
+- [Szabina Kovacs](/march2020/szabina-k.md)

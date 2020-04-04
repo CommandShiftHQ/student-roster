@@ -1,0 +1,5 @@
+- Name: Szabina Kovacs
+- Likes: Grapes, Melon, the rush after coffee
+- Dislikes: Lies, Spiders, Hand-dryers in bathrooms
+- Favourite Quote: Could be worse, could be better
+- GitHub Profile URL: https://github.com/szabinakov
