@@ -96,4 +96,4 @@
 - [Niall Greene](march2020/niallgreene7.md)
 - [Szabina Kovacs](/march2020/szabina-k.md)
 - [Nick Marron](/march2020/Nick-M.md)
-- [Ethan Davis](/march2020/ethan.md)
+- [Ethan Davis](/march2020/ethan-davis.md)
