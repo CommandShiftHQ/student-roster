@@ -1,0 +1,5 @@
+- Name: Niall Greene
+- Likes: Football
+- Dislikes: lockdown
+- Favourite Quote: 
+- GitHub Profile URL: https://github.com/niallgreene7/niallgreene
