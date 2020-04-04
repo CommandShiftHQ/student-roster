@@ -93,3 +93,8 @@
 ## March 2020 Cohort
 
 - [Joseph Bramwell](/march2020/joseph-bramwell.md)
+<<<<<<< HEAD
+- [Szabina Kovacs](/march2020/szabina-k.md)
+=======
+- [Nick Marron](/march2020/Nick-M.md)
+>>>>>>> d5ea4a5df0471cfdf5d8188e0447d7ff5bdc78cb
