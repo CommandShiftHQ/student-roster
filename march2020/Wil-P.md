@@ -1,0 +1,5 @@
+- Name: Wil Powell
+- Likes: Guitars, rugby, (attempted) weight lifting, LFC
+- Dislikes: snakes, MUFC, Tories
+- Favourite Quote: "To Alcohol! The cause of, and solution to, all of life's problems!" ~ Homer J. Simpson
+- GitHub Profile URL: https://github.com/WilPowell1

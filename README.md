@@ -100,3 +100,4 @@
 - [Arianha Bayley](/march2020/arianha-b.md)
 - [Andreea Ros] (/march2020/andreea-r.md)
 - [Antonia Symeonidou](/march2020/Antonia-S.md)
+- [Wil Powell](/march2020/Wil-P.md)
