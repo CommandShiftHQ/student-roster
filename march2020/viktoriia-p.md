@@ -1,0 +1,5 @@
+- Name: Viktoriia Petrova
+- Likes: Coding, Travelling, Zumba, Yoga, Rock climbing, animals and coffee
+- Dislikes: arrogance
+- Favourite Quote: If you afraid to fall you never will be able to fly
+- GitHub Profile URL: https://github.com/etrovavica1221
