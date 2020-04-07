@@ -1,0 +1,5 @@
+- Name: Alex Segura
+- Likes: Challenges and Jokes at 50%
+- Dislikes: Superheroes
+- Favourite Quote: 'Don't believe in everything you see. Salt also looks like sugar'
+- GitHub Profile URL: https://github.com/Alex-003

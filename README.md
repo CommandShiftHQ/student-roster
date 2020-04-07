@@ -102,3 +102,4 @@
 - [Antonia Symeonidou](/march2020/Antonia-S.md)
 - [Wil Powell](/march2020/Wil-P.md)
 - [Viktoriia Petrova](/march2020/viktoriia-p.md)
+- [Alex Segura](/march2020/Alex-S.md)
