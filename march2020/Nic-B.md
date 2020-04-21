@@ -1,0 +1,5 @@
+- Name: Nicola (Nic) Beswick
+- Likes: Snowboarding, Mountain biking, drawing, support Man U, converting van to campervan, architecture, learning new things, coding? 
+- Dislikes: Anything domesticated, shopping, cooking, coding?
+- Favourite Quote: “One can't be angry when one looks at a penguin.” John Ruskin
+- GitHub Profile URL: github.com/nic-bes
