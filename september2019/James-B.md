@@ -1,0 +1,5 @@
+- Name: James Barrington
+- Likes: Pizza, Cycling, Mountaineering, Music, Cooking
+- Dislikes: The Tory Party
+- Favorite Quote: "I can resist everything except temptation" - Oscar Wilde
+- GitHub Profile URL: https://github.com/jimmyb2508
