@@ -69,10 +69,10 @@
 - [Jatinder Singh](/september2019/jatinder-s.md)
 - [Sean Campbell](/september2019/sean-c.md) 
 - [Lucy Adams](/september2019/lucy-a.md)
-- [Gareth Beer](september2019/Gareth-B.md)
+- [Gareth Beer](/september2019/Gareth-B.md)
 - [Aidan Mueller](/september2019/Aidan-M.md)
-- [Denise Tench](september19/Denise-T.md)
-- [James Barrington](september19/James-B.md)
+- [Denise Tench](/september19/Denise-T.md)
+- [James Barrington](/september19/James-B.md)
 
 ## February 2020 Cohort
 
