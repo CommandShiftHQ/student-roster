@@ -70,7 +70,7 @@
 - [Sean Campbell](/september2019/sean-c.md) 
 - [Lucy Adams](/september2019/lucy-a.md)
 - [Gareth Beer](/september2019/Gareth-B.md)
-- [Aidan Mueller](/september2019/Aidan-M.md)
+- [Aidan Mueller](/september2019/AidanM.md)
 - [Denise Tench](/september2019/Denise-T.md)
 - [James Barrington](/september2019/jim-b.md)
 
