@@ -71,8 +71,8 @@
 - [Lucy Adams](/september2019/lucy-a.md)
 - [Gareth Beer](/september2019/Gareth-B.md)
 - [Aidan Mueller](/september2019/Aidan-M.md)
-- [Denise Tench](/september19/Denise-T.md)
-- [James Barrington](/september19/jim-b.md)
+- [Denise Tench](/september2019/Denise-T.md)
+- [James Barrington](/september2019/jim-b.md)
 
 ## February 2020 Cohort
 
