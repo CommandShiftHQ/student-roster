@@ -106,6 +106,8 @@
 - [Alex Segura](/march2020/Alex-S.md)
 - [Nicola Beswick](/march2020/Nic-B.md)
 
+## July 2020 Cohort
+[Ben Thompson](/July2020/Ben.md)
 ## Flexitrack 
 
 - [Sam Tovey](/flexitrack/sam-t.md)
