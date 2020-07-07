@@ -1,0 +1,5 @@
+- Name: Alan Brooks
+- Likes: Marmite, weetabix, travelling, getting out the house
+- Dislikes: Marmite on weetabix, not getting out the house
+- Favourite Quote: "There is no right path or wrong path, there is only the way."
+- GitHub Profile URL: https://github.com/AlanBrooksDT

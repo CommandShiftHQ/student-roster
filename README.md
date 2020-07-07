@@ -112,3 +112,4 @@
 
 ## July 2020 Cohort
 - [Ben Thompson](/July2020/Ben.md)
+- [Alan Brooks](/July2020/alan-b.md)
