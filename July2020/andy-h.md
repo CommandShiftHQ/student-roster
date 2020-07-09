@@ -1,0 +1,5 @@
+- Name: Andy Harrison
+- Likes: Films, music, fine food, beer, gin, skiing, road biking, cricket and coding
+- Dislikes: Early starts, coronovirus, queues and love island
+- Favourite Quote: "You miss 100% of the shots you don't take". Wayne Gretzky
+- GitHub Profile URL: https://github.com/AndyHcodes
