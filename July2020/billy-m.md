@@ -1,0 +1,5 @@
+- Name: Billy Morrison
+- Likes: Amateur Theatre, World of Warcraft, Beer (Not necessarily in that order)
+- Dislikes: The slow decay of the universe
+- Favourite Quote: "To ask why we fight, is to ask why the leaves fall. It is in their nature" - Chen Stormstout
+- GitHub Profile URL: https://github.com/billymorrison
