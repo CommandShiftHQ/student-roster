@@ -1,0 +1,5 @@
+- Name: Andrew Logan
+- Likes: Football, Cycling, Watches, 80's action movies and my wife
+- Dislikes: Broccoli with a passion
+- Favourite Quote: "if it bleeds, we can kill it."
+- GitHub Profile URL: https://github.com/JackRandom

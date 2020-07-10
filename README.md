@@ -115,3 +115,4 @@
 - [Alan Brooks](/July2020/alan-b.md)
 - [Billy Morrison](/July2020/alan-b.md)
 - [Andy Harrison](/July2020/andy-h.md)
+- [Andrew Logan] (/July2020/andrew-l.md)
