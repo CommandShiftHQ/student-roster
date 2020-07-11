@@ -1,0 +1,5 @@
+- Name: Aishah Bushra
+- Likes: Fried Chicken, It's Always Sunny in Philadelphia and the occasional run.
+- Dislikes: Boiled carrots, UK Summer and dirty nails.
+- Favourite Quote: "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me" - Michael Scott
+- GitHub Profile URL: https://github.com/aishahbushra 
