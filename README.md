@@ -109,6 +109,7 @@
 ## Flexitrack 
 
 - [Sam Tovey](/flexitrack/sam-t.md)
+- [Tanaka Gundani](/flexitrack/Tanaka-G.md)
 
 ## July 2020 Cohort
 - [Ben Thompson](/July2020/Ben.md)
