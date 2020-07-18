@@ -118,3 +118,4 @@
 - [Andy Harrison](/July2020/andy-h.md)
 - [Andrew Logan](/July2020/andrew-l.md)
 - [Aishah Bushra](/July2020/Aishah.md)
+- [Okori McCalla](/July2020/okori-m.md)

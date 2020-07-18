@@ -1,5 +1,0 @@
-- Name: Aaron hays
-- Likes: Square shooting
-- Dislikes: Sly
-- Favourite Quote: "Death is not the greatest loss in life. The greatest loss is what dies inside while still alive. Never surrender."
-- GitHub Profile URL: https://github.com/56aint
