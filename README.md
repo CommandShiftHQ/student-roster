@@ -110,6 +110,7 @@
 
 - [Sam Tovey](/flexitrack/sam-t.md)
 - [Tanaka Gundani](/flexitrack/Tanaka-G.md)
+- [Danielle Henry](/flexitrack/Danielle-h.md)
 
 ## July 2020 Cohort
 - [Ben Thompson](/July2020/Ben.md)
