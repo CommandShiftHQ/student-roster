@@ -1,0 +1,6 @@
+- Name: Juel B
+- Likes: dancing, talking about food, blogging about food 
+- Dislikes: peas, my landlord's no-pet policy :(
+- Favourite Quote: "Don't just follow your passion, follow your effort" - Mark Cuban
+- Least Favourite Quote: "Eat the peas Juel" - my Mum
+- GitHub Profile URL: https://github.com/Juel07
