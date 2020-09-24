@@ -1,0 +1,5 @@
+- Name: Jennifer Openshaw (Jen)
+- Likes: reading, being outdoors, gardening, nature & wildlife
+- Dislikes: rude people, COVID/lockdown, U2
+- Favourite Quote: this week it's: "If coders don’t run the world, they run the things that run the world." from that Paul Ford article
+- GitHub Profile URL: https://github.com/jlopenshaw41
