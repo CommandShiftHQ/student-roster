@@ -1,0 +1,5 @@
+- Name: Anna Balquin
+- Likes: cycling, sci-fi, all the nature, board games
+- Dislikes: listing likes and dislikes
+- Favourite Quote: at the moment - basically everything Brené Brown says
+- GitHub Profile URL: https://github.com/anna-m-b
