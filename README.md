@@ -124,4 +124,3 @@
 
 ## September 2020 Cohort
 - [Jen Openshaw](/september2020/jen-o.md)
-## Sept 2020 Cohort
