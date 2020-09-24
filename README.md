@@ -121,3 +121,5 @@
 - [Andrew Logan](/July2020/andrew-l.md)
 - [Aishah Bushra](/July2020/Aishah.md)
 - [Okori McCalla](/July2020/okori-m.md)
+
+## Sept 2020 Cohort
