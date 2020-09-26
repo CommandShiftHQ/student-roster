@@ -1,0 +1,5 @@
+- Name: Scott Hannabuss
+- Likes: Reading, running, video games
+- Dislikes: Having a ten-year-old Mac
+- Favourite Quote: "You will become way less concerned with what other people think of you when you realize how seldom they do" - David Foster Wallace 
+- GitHub Profile URL: https://github.com/scott-hannabuss
