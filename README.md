@@ -125,3 +125,4 @@
 ## September 2020 Cohort
 - [Jen Openshaw](/september2020/jen-o.md)
 - [Anna Balquin](/september2020/anna-b.md)
+- [Scott hannabuss](/september2020/scott-h.md)
