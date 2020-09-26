@@ -1,5 +1,0 @@
-- Name: 
-- Likes: 
-- Dislikes: 
-- Favourite Quote: 
-- GitHub Profile URL: https://github.com/add-your-github-username-here
