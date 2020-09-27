@@ -125,5 +125,6 @@
 ## September 2020 Cohort
 - [Jen Openshaw](/september2020/jen-o.md)
 - [Anna Balquin](/september2020/anna-b.md)
+- [Jonathan Cain](/september2020/jonathan-c.md)
 - [Scott hannabuss](/september2020/scott-h.md)
 - [James Woodhead](/september2020/james-w.md)
