@@ -1,0 +1,5 @@
+- Name: Hallam Fulcher
+- Likes: Travel, reading, nature, podcasts
+- Dislikes: 2020
+- Favourite Quote: "Si no arriesgas en la vida, ya estás muerto."
+- GitHub Profile URL: https://github.com/HalFulcher

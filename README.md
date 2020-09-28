@@ -130,3 +130,4 @@
 - [James Woodhead](/september2020/james-w.md)
 - [Lucy Ironmonger](/september2020/lucy-i.md)
 - [Shona McBride](/september2020/shona-m.md)
+- [Hallam Fulcher](/september2020/hallam-f.md)
