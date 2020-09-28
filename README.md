@@ -129,3 +129,4 @@
 - [Scott hannabuss](/september2020/scott-h.md)
 - [James Woodhead](/september2020/james-w.md)
 - [Lucy Ironmonger](/september2020/lucy-i.md)
+- [Shona McBride](/september2020/shona-m.md)
