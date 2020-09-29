@@ -134,4 +134,9 @@
 - [Richard Ballout](/september2020/richard-b.md)
 - [Dario Milani](/september2020/Dario-M.md)
 - [Shona McBride](/september2020/shona-m.md)
+<<<<<<< HEAD
 - [Jasmin Bateman](/september2020/jasmin-b.md)
+=======
+>>>>>>> 5c864cdfa234f01cbeaf3c95814423f209bd19d7
+- [Jenny Cant](/september2020/jenny-c.md)
+>>>>>>> 58df76b294f0654e31b1133554281efadf9dce94

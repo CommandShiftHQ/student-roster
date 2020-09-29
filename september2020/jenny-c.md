@@ -1,0 +1,5 @@
+- Name: Jenny
+- Likes: reading, being outdoors, music, theatre, family
+- Dislikes: last minute change
+- Favourite Quote: Not all who wander are lost
+- GitHub Profile URL: https://github.com/jennifergreeneyes
