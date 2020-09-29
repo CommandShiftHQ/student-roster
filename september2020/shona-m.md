@@ -1,0 +1,5 @@
+- Name: Shona McBride
+- Likes: Reading, hiking, rock climbing (indoors), rowing, being in nature
+- Dislikes: rudeness
+- Favourite Quote: "I can resist everything except temptation." - Oscar Wilde
+- GitHub Profile URL: https://github.com/samcbride

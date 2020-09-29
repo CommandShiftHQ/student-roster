@@ -131,3 +131,4 @@
 - [Lucy Ironmonger](/september2020/lucy-i.md)
 - [Richard Ballout](/september2020/richard-b.md)
  
+- [Shona McBride](/september2020/shona-m.md)
