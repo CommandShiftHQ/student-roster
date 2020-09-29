@@ -1,0 +1,5 @@
+- Name: Jaz
+- Likes: Travel, pizza, chocolate and dogs.
+- Dislikes: Lockdown
+- Favourite Quote: "an eye for an eye only leads to more blindness" Margaret Atwood
+- GitHub Profile URL: https://github.com/jasminbateman

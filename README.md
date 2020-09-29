@@ -129,11 +129,9 @@
 - [Scott hannabuss](/september2020/scott-h.md)
 - [James Woodhead](/september2020/james-w.md)
 - [Lucy Ironmonger](/september2020/lucy-i.md)
-<<<<<<< HEAD
 - [Shona McBride](/september2020/shona-m.md)
 - [Hallam Fulcher](/september2020/hallam-f.md)
-=======
 - [Richard Ballout](/september2020/richard-b.md)
 - [Dario Milani](/september2020/Dario-M.md)
 - [Shona McBride](/september2020/shona-m.md)
->>>>>>> 5c864cdfa234f01cbeaf3c95814423f209bd19d7
+- [Jasmin Bateman](/september2020/jasmin-b.md)
