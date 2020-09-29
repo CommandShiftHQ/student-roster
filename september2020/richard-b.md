@@ -1,0 +1,5 @@
+- Name: Richard Ballout
+- Likes: Nature, walking, running, buying too many books
+- Dislikes: Beetroot
+- Favourite Quote: “I count him braver who overcomes his desires than him who conquers his enemies, for the hardest victory is over self.”
+- GitHub Profile URL: https://github.com/RichardBallout
