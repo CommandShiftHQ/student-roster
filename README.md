@@ -130,5 +130,5 @@
 - [James Woodhead](/september2020/james-w.md)
 - [Lucy Ironmonger](/september2020/lucy-i.md)
 - [Richard Ballout](/september2020/richard-b.md)
- 
+- [Dario Milani](/september2020/Dario-M.md)
 - [Shona McBride](/september2020/shona-m.md)
