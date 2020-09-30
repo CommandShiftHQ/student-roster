@@ -137,3 +137,4 @@
 - [Jasmin Bateman](/september2020/jasmin-b.md)
 - [Jenny Cant](/september2020/jenny-c.md)
 - [robin-e](/september2020/robin-e.md)
+- [Paul Hardy](/september2020/paul-h.md)

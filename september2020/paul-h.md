@@ -1,0 +1,5 @@
+- Name: Paul Hardy
+- Likes: Football, going to the gym, spending time with the family/not spending time with the family.
+- Dislikes: The new normal
+- Favourite Quote: at the moment - In the midst of chaos, there is also opportunity
+- GitHub Profile URL: https://github.com/iampaulhardy
