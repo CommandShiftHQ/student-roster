@@ -1,0 +1,5 @@
+- Name:Robin Edwards
+- Likes: Making Music,Travel,Art,
+- Dislikes: Brexit, 2020 not being able to travel 
+- Favourite Quote: I'd rather be the head of chicken than the tail of a cow.
+- GitHub Profile URL: https://github.com/ro8inro8in
