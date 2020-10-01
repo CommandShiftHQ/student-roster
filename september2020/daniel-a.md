@@ -1,0 +1,5 @@
+- Name: Daniel
+- Likes: philosophy, cooking, collabouration
+- Dislikes: rude beheaviour, dishonesty, dismissive attitudes 
+- Favourite Quote: If you know a person well, you will deal with them well
+- GitHub Profile URL: https://github.com/bluespringstest
