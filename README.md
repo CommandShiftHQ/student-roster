@@ -138,3 +138,6 @@
 - [Jenny Cant](/september2020/jenny-c.md)
 - [robin-e](/september2020/robin-e.md)
 - [Paul Hardy](/september2020/paul-h.md)
+
+## November 2020 Cohort
+- [Matt Edwards](/november2020/matt-e.md)

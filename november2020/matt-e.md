@@ -1,0 +1,5 @@
+- Name: Matt Edwards
+- Likes: triathlon; endurance sport in general; books (Neal Stephenson being current favourite); beer!
+- Dislikes: overcooked cauliflower
+- Favourite Quote: “I apologise for such a long letter - I didn't have time to write a short one.” - Mark Twain
+- GitHub Profile URL: https://github.com/matt-j-e
