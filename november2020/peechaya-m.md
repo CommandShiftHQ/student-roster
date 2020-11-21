@@ -1,0 +1,5 @@
+- Name: Peechaya Mackenzie
+- Likes: Spend time with my family; Korean drama; sleep; quiet time
+- Dislikes: speaking in front of people
+- Favourite Quote: "Treat people the way you want to be treated"
+- GitHub Profile URL: https://github.com/peechayamackenzie
