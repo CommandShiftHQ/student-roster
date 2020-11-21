@@ -1,0 +1,5 @@
+- Name: Joanna Hughes 
+- Likes: Iberico ham, gripping documentaries, cuddles and Billy Joel
+- Dislikes: Running out of Nespresso coffee capsules (boo hoo)
+- Favourite Quote: I’ve learned that whenever I decide something with an open heart, I usually make the right decision. - Maya Angelou
+- GitHub Profile URL: https://github.com/JoannaAshaJayne

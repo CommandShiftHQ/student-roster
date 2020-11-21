@@ -142,3 +142,5 @@
 ## November 2020 Cohort
 - [Matt Edwards](/november2020/matt-e.md)
 - [Peechaya Mackenzie](/november2020/peechaya-m.md)
+- [Joanna Hughes](/november2020/JoannaAshaJayne.md)
+
