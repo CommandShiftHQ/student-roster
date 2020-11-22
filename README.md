@@ -144,3 +144,5 @@
 - [Peechaya Mackenzie](/november2020/peechaya-m.md)
 - [Joanna Hughes](/november2020/JoannaAshaJayne.md)
 - [James Darwent](/november2020/James-Darwent.md)
+- [Hollie Tatlock](/november2020/HollieTatlock.md)
+
