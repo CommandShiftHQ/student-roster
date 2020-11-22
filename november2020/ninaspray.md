@@ -1,0 +1,6 @@
+- Name: Nina Spray 
+- Likes: True Crime Podcasts, Cooking, Walking, Travelling
+- Love: Cats
+- Dislikes: Gluten, Rude People
+- Favourite Quote: “When you focus on the good the good gets better” 
+- GitHub Profile URL: https://github.com/ninaspray 
