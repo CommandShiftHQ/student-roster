@@ -1,0 +1,5 @@
+- Name: James Pratt
+- Likes: Ice Hockey, Music, Coffee and my dogs (Daisy & Darwin)
+- Dislikes: Public transport, noisy eaters and wasps
+- Favourite Quote: " I'd rather be a hypocrite than stay the same person forever" - Adam Horovitz 
+- GitHub Profile URL: https://github.com/MrN0vember

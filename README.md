@@ -145,4 +145,5 @@
 - [Joanna Hughes](/november2020/JoannaAshaJayne.md)
 - [James Darwent](/november2020/James-Darwent.md)
 - [Hollie Tatlock](/november2020/HollieTatlock.md)
+- [James Pratt](/november2020/James-Pratt.md)
 
