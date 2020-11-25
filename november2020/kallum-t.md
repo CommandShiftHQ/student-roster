@@ -1,0 +1,5 @@
+- Name: Kallum Tolkien
+- Likes: Technology, Wine, Sports, Reading, Travel and Building Things
+- Dislikes: Closed minds
+- Favourite Quote: "Anyone who stops learning is old" - Henry Ford 
+- GitHub Profile URL: https://github.com/hatenhaten
