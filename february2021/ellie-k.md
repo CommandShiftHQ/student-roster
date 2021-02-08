@@ -1,0 +1,5 @@
+- Name: Ellie Kemp
+- Likes: cats, pints, travelling
+- Dislikes: being stuck at home
+- Favourite Quote: 'Those who don't believe in magic will never find it.' 
+- GitHub Profile URL: https://github.com/erkemp3

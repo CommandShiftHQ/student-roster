@@ -147,3 +147,6 @@
 - [Hollie Tatlock](/november2020/HollieTatlock.md)
 - [James Pratt](/november2020/James-Pratt.md)
 - [Kallum Tolkien](/november2020/kallum-t.md)
+
+## February 2021 Cohort
+- [Ellie Kemp](/february2021/ellie-k.md)
