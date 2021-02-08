@@ -1,0 +1,5 @@
+- Name: Nathan Mayall
+- Likes: PC Gaming, coding, homelabbing
+- Dislikes: MS Excel
+- Favourite Quote: Hi, welcome to Chilly's
+- GitHub Profile URL: https://github.com/nathanmayall
