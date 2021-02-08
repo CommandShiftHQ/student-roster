@@ -54,7 +54,7 @@
 - [Lukasz Orzechowski](june2019/Lukasz-O.md)
 - [Vinicius Prado](june2019/vini-prado.md)
 - [Joy Dutta](june2019/joy-d.md)
-- [Cai Jenkins](june2019/Cai-J.md) 
+- [Cai Jenkins](june2019/Cai-J.md)
 - [Steve Nelson](june2019/Steve-N.md)
 - [Haris Amjad](june2019/haris-a.md)
 
@@ -67,7 +67,7 @@
 - [Samuel Millward](/september2019/samuel-m.md)
 - [Jo Smith](/september2019/jo-s.md)
 - [Jatinder Singh](/september2019/jatinder-s.md)
-- [Sean Campbell](/september2019/sean-c.md) 
+- [Sean Campbell](/september2019/sean-c.md)
 - [Lucy Adams](/september2019/lucy-a.md)
 - [Gareth Beer](/september2019/Gareth-B.md)
 - [Aidan Mueller](/september2019/AidanM.md)
@@ -106,7 +106,7 @@
 - [Alex Segura](/march2020/Alex-S.md)
 - [Nicola Beswick](/march2020/Nic-B.md)
 
-## Flexitrack 
+## Flexitrack
 
 - [Sam Tovey](/flexitrack/sam-t.md)
 - [Tanaka Gundani](/flexitrack/Tanaka-G.md)
@@ -114,6 +114,7 @@
 - [Juel B](/flexitrack/juel-b.md)
 
 ## July 2020 Cohort
+
 - [Ben Thompson](/July2020/Ben.md)
 - [Alan Brooks](/July2020/alan-b.md)
 - [Billy Morrison](/July2020/alan-b.md)
@@ -123,6 +124,7 @@
 - [Okori McCalla](/July2020/okori-m.md)
 
 ## September 2020 Cohort
+
 - [Jen Openshaw](/september2020/jen-o.md)
 - [Anna Balquin](/september2020/anna-b.md)
 - [Jonathan Cain](/september2020/jonathan-c.md)
@@ -140,6 +142,7 @@
 - [Paul Hardy](/september2020/paul-h.md)
 
 ## November 2020 Cohort
+
 - [Matt Edwards](/november2020/matt-e.md)
 - [Peechaya Mackenzie](/november2020/peechaya-m.md)
 - [Joanna Hughes](/november2020/JoannaAshaJayne.md)
@@ -149,4 +152,6 @@
 - [Kallum Tolkien](/november2020/kallum-t.md)
 
 ## February 2021 Cohort
+
 - [Ellie Kemp](/february2021/ellie-k.md)
+- [Nathan Mayall](/february2021/nathan-m.md)
