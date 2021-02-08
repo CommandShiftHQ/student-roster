@@ -1,0 +1,5 @@
+- Name: Alex White
+- Likes: Music, VR, tinkering (breaking)
+- Dislikes: noises people make
+- Favourite Quote: “I'm sure the universe is full of intelligent life. It's just too intelligent to come here.” ― Arthur C. Clarke
+- GitHub Profile URL: https://github.com/pixeljuggle
