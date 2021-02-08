@@ -150,3 +150,4 @@
 
 ## February 2021 Cohort
 - [Ellie Kemp](/february2021/ellie-k.md)
+- [Dean Spooner](/february2021/dean-s.md)

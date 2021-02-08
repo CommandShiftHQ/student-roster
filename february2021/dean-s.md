@@ -1,0 +1,5 @@
+- Name: Dean Spooner
+- Likes: Exercise, cookery, games, languages
+- Dislikes: Fish (as a food!)
+- Favourite Quote: Not sure I have one!
+- GitHub Profile URL: https://github.com/DeanSpooner
