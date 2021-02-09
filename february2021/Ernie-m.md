@@ -1,0 +1,5 @@
+- Name: Ernie Metcalf
+- Likes: Football, Taekwondo, Climbing, Seeing Friends
+- Dislikes: Not seeing friends, thats about it really!
+- Favourite Quote: The way to get started is to quit talking and begin doing
+- GitHub Profile URL: https://github.com/metcalf44
