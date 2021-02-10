@@ -159,3 +159,4 @@
 - [Nathan Mayall](/february2021/nathan-m.md)
 - [Mario Zenuni](/february2021/mario-z.md)
 - [Ernie Metcalf](/february2021/Ernie-m.md)
+- [Alex White](/february2021/alex-w.md)
