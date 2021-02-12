@@ -152,6 +152,7 @@
 - [Kallum Tolkien](/november2020/kallum-t.md)
 
 ## February 2021 Cohort
+
 - [Ellie Kemp](/february2021/ellie-k.md)
 - [Dean Spooner](/february2021/dean-s.md)
 
@@ -161,3 +162,4 @@
 - [Ernie Metcalf](/february2021/Ernie-m.md)
 - [Alex White](/february2021/alex-w.md)
 - [David Buckley](/february2021/david-b.md)
+- [Andrew Robinson](/february2021/andrew-r.md)

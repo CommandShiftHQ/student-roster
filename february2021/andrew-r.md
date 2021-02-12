@@ -1,0 +1,5 @@
+- Name: Andrew Robinson
+- Likes: Gym, food, dogs
+- Dislikes: Lockdowns, lampshades, memes
+- Favourite Quote: I'll either find a way, or I'll make one
+- GitHub Profile URL: https://github.com/AndyRobinson23
