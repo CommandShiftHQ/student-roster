@@ -161,4 +161,4 @@
 - [Ernie Metcalf](/february2021/Ernie-m.md)
 - [Alex White](/february2021/alex-w.md)
 - [David Buckley](/february2021/david-b.md)
-- [Carolina Dias] (/february2021/carolina-d.md)
+- [Carolina Dias](/february2021/carolina-d.md)
