@@ -1,0 +1,5 @@
+- Name: Carolina Dias
+- Likes: Sun, Sports and Friends.
+- Dislikes: Bad vibes.
+- Favourite Quote: To achieve what others won't, you have to do what others don't.
+- GitHub Profile URL: https://github.com/carolinadias25
