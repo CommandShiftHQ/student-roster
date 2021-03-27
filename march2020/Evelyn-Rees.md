@@ -1,0 +1,5 @@
+- Name: Evelyn Rees
+- Likes: Makeup, Keto Diet, healthy life style, Travel, Italy, learn about tech
+- Dislikes: MCR weather, lockdown, the noises that some ppl makes when they eat
+- Favourite Quote: the only limit is yourself, your future is amazing you will love it
+- GitHub Profile URL: https://github.com/EveRefi

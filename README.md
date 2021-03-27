@@ -98,6 +98,7 @@
 - [Szabina Kovacs](/march2020/szabina-k.md)
 - [Nick Marron](/march2020/Nick-M.md)
 - [Ethan Davis](/march2020/ethan-davis.md)
+- [Evelyn Rees](/march2020/Evelyn-Rees.md)
 - [Arianha Bayley](/march2020/arianha-b.md)
 - [Andreea Ros](/march2020/andreea-r.md)
 - [Antonia Symeonidou](/march2020/Antonia-S.md)
