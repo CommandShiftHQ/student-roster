@@ -1,0 +1,5 @@
+- Name: Hugh Kristiansen
+- Likes: Running, Alan Partridge, Good Reads, Ghent
+- Dislikes: Litter, Rudeness
+- Favourite Quote: I got the shotgun. You got the briefcase. It's all in the game, though, right?
+- GitHub Profile URL: https://github.com/hughsylinden
