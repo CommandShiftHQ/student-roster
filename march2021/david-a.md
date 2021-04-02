@@ -1,0 +1,4 @@
+- Name: David Arrowsmith
+- Likes: Rockclimbing, hiking, VR, Minecraft, bug type Pokémon, cats, beach & city holidays, good books, ramen, Manchester 🐝💖
+- Dislikes: Not having enough free time to do all the nice things!
+- Favourite Quote: "A vital ingredient of success is not knowing that what you’re attempting can’t be done. A person ignorant of the possibility of failure can be a half-brick in the path of the bicycle of history." - Terry Pratchett, Equal Rites

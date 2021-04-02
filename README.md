@@ -168,4 +168,5 @@
 
 ## March 2021 Cohort
 
+- [David Arrowsmith](/march2021/david-a.md)
 - [Hugh Kristiansen](/march2021/hugh-k.md)
