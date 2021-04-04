@@ -1,0 +1,5 @@
+- Name: David Davies
+- Likes: Japan, Food, Aviation, Gaming, Music, Sport, It's Always Sunny in Philadelphia
+- Dislikes: Rude people
+- Favourite Quote: “Can I offer you an egg in this trying time?”
+- GitHub Profile URL: https://github.com/ddavies90
