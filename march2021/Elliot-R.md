@@ -1,0 +1,5 @@
+- Name: Elliot Robertson
+- Likes: Guitar, Photography, Futures Trading
+- Dislikes: Rudeness
+- Favourite Quote: Knowledge is power
+- GitHub Profile URL: https://github.com/ellriffs
