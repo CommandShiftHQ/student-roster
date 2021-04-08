@@ -1,0 +1,5 @@
+- Name: Caroline Cenedesi
+- Likes: Sun,Beach,Yoga, Friends and Family.
+- Dislikes: Cold, Rudeness.
+- Favourite Quote: Whatever you are not changing, you are choosing.
+- GitHub Profile URL: https://github.com/carolcenedesi
