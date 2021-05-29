@@ -1,0 +1,5 @@
+- Name: Mahmoud Jeilani
+- Likes: Sports,Teaching,
+- Dislikes: Bus and waiting for food
+- Favourite Quote: “The richest of the rich is the one who is not a prisoner to greed.” Ali Ibn Abi Talib (R.A)
+- GitHub Profile URL: https://github.com/muudi10
