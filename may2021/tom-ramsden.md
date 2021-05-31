@@ -1,0 +1,5 @@
+- Name: Tom Ramsden
+- Likes: Cats, gaming, coding, sleeping
+- Dislikes: Rudeness
+- Favourite Quote: “All those moments will be lost in time, like tears in rain. Time to die.” - Roy Batty
+- GitHub Profile URL: https://github.com/GhostPhayce
