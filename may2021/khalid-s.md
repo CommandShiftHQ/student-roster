@@ -1,0 +1,5 @@
+- Name: Khalid Safy
+- Likes: Reading, travelling, gaming, coding, sleeping
+- Dislikes: Arrogance
+- Favourite Quote: "All those days that came and went, little did I know that they were life.
+- GitHub Profile URL: https://github.com/DaXian88

@@ -180,3 +180,4 @@
 - [Tom Ramsden](/may2021/tom-ramsden.md)
 - [Jen Stewart] (/may2021/jen-s.md)
 - [Ada Cameron](/may2021/ada-cameron.md)
+- [Khalid Safy](/may2021/khalid-s.md)
