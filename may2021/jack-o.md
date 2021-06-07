@@ -1,0 +1,5 @@
+- Name: Jack O'Sullivan
+- Likes: Music, Films, Travel and Ales
+- Dislikes: Mayo, Tories and Rudeness.
+- Favourite Quote: "So are you telling me elephants are not born evil?" Richard Madeley
+- GitHub Profile URL: https://github.com/Krackal
