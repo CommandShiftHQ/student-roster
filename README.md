@@ -181,3 +181,5 @@
 - [Jen Stewart] (/may2021/jen-s.md)
 - [Ada Cameron](/may2021/ada-cameron.md)
 - [Khalid Safy](/may2021/khalid-s.md)
+- [Shabina Patel](/may2021/shabina-p.md)
+- [Danielle Davis](/may2021/danielle-d.md)

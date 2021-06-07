@@ -1,0 +1,6 @@
+- Name: Danielle Davis
+- Likes: Sunny days, forest walks, family time and prosecco
+- Dislikes: bad manners, narrow minded people, eggs and mushrooms
+- Favourite Quote: “What other people think of me is becoming less and less important; what they think of Jesus because of me is critical.”
+-- Cliff Richard
+- GitHub Profile URL: https://github.com/danielld82
