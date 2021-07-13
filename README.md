@@ -113,6 +113,7 @@
 - [Tanaka Gundani](/flexitrack/Tanaka-G.md)
 - [Danielle Henry](/flexitrack/Danielle-h.md)
 - [Juel B](/flexitrack/juel-b.md)
+- [Adaobi Ifeachor](/flexitrack/adaobi-i.md)
 
 ## July 2020 Cohort
 
