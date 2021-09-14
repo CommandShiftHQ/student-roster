@@ -188,3 +188,4 @@
 ## September 2021 Cohort
 
 - [Ashley N](/september2021/ashley-n.md)
+- [Nathan H](/september2021/nathan-h.md)
