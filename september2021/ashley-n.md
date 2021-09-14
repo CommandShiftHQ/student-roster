@@ -1,0 +1,5 @@
+- Name: Ashley N
+- Likes: Gaming, Travelling, Food, Drawing
+- Dislikes: Stressful Situations
+- Favourite Quote: "Don't fret, little one. Teeny-tiny fireworks are just as beautiful as the ones in the sky. You're spectacular" Bob, Animal Crossing: NH
+- GitHub Profile URL: https://github.com/CodeNameAshley
