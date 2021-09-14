@@ -1,0 +1,5 @@
+- Name: Rachel S
+- Likes: Sleeping, eating, cats, air guitar
+- Dislikes: Not sleeping
+- Favourite Quote: "You smell like beef and cheese, you don't smell like Santa" - Buddy the Elf
+- GitHub Profile URL: https://github.com/greenchul
