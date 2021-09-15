@@ -1,0 +1,4 @@
+- Name: Maggie
+- Likes: Knitting, Sewing, Running, Pilates, Nintendo
+- Dislikes: Sultanas, Public Toilets, Not being able to fall asleep
+- Favourite Quote: "Whether you think you can or you can't - you're right" - Henry Ford
