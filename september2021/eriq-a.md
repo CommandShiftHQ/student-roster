@@ -1,5 +1,5 @@
 - Name: Eriq Abonie
 - Likes: Music, Travel, Karate
-- Dislikes: slugs, 
+- Dislikes: slugs,cold coffee 
 - Favourite Quote: All men are created equal, but some men are more equal than others.
 - GitHub Profile URL: https://github.com/eriqabonie
