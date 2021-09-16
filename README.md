@@ -195,3 +195,4 @@
 - [Eriq Abonie](/september2021/eriq-a.md)
 - [Laura Voineag](/september2021/Laura_V.md)
 - [Abdirisak Mohamed](/september2021/abdirisak-m.md)
+- [David Taylor](/september2021/david-t.md)
