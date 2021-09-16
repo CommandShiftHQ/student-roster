@@ -1,0 +1,5 @@
+- Name: David Taylor
+- Likes: Listening to the wind flow through the trees on a Summer's day. Beards. Whiskey.
+- Dislikes: All but 5 of the entire human race.
+- Favourite ""You miss 100% of the shots you don't take. - Wayne Gretzky" - Michael Scott" - David Taylor
+- GitHub Profile URL: https://github.com/Daveoxys
