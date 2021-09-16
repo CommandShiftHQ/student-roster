@@ -1,0 +1,5 @@
+- Name: Laura Voineag
+- Likes: Anime, Coding, Movies, Sports
+- Dislikes: Negative mindset
+- Favourite Quote: Be the change you want to see!
+- GitHub Profile URL: https://github.com/lauravoineag
