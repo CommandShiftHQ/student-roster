@@ -192,3 +192,4 @@
 - [Nathan H](/september2021/nathan-h.md)
 - [Katie J](/september2021/katie-j.md)
 - [Maggie dR](/september2021/maggie-dr.md)
+- [Eriq Abonie] (/september2021/eriq-a.md)
