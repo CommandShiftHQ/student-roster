@@ -1,5 +1,5 @@
 - Name: Eriq Abonie
 - Likes: Music, Travel, Karate
 - Dislikes: slugs,cold coffee 
-- Favourite Quote: All men are created equal, but some men are more equal than others.
+- Favourite Quote: Master of all trades, is a master of none,....but often much better than a master of one.
 - GitHub Profile URL: https://github.com/eriqabonie
