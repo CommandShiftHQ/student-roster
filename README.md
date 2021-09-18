@@ -193,3 +193,4 @@
 - [Katie J](/september2021/katie-j.md)
 - [Maggie dR](/september2021/maggie-dr.md)
 - [Eriq Abonie](/september2021/eriq-a.md)
+- [Heli Devine](/september2021/heli-d.md)
