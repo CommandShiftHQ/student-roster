@@ -194,3 +194,5 @@
 - [Maggie dR](/september2021/maggie-dr.md)
 - [Eriq Abonie](/september2021/eriq-a.md)
 - [Heli Devine](/september2021/heli-d.md)
+- [Laura Voineag](/september2021/Laura_V.md)
+- [Abdirisak Mohamed](/september2021/abdirisak-m.md)
