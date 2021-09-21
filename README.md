@@ -196,4 +196,4 @@
 - [Heli Devine](/september2021/heli-d.md)
 - [Laura Voineag](/september2021/Laura_V.md)
 - [Abdirisak Mohamed](/september2021/abdirisak-m.md)
-- [Khalid Nur](/september2021/khalid-n.md)
+- [Khalid Nur](/september2021/khalid.n.md)
