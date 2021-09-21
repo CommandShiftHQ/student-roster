@@ -1,0 +1,5 @@
+- Name: khalid nur
+- Likes: Sports,Travel,Food
+- Dislikes: COVID
+- Favourite Quote: "God first"
+- GitHub Profile URL: https://github.com/Khalid4555
