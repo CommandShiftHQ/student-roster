@@ -1,0 +1,5 @@
+- Name: Dan Hembery
+- Likes: Video Games, Gin and Travelling
+- Dislikes: Fish, Waiting in line, Rain
+- Favourite Quote: Life is what happens when you are busy making other plans
+- GitHub Profile URL: https://github.com/DanHembery

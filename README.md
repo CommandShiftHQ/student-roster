@@ -197,3 +197,7 @@
 - [Laura Voineag](/september2021/Laura_V.md)
 - [Abdirisak Mohamed](/september2021/abdirisak-m.md)
 - [Khalid Nur](/september2021/khalid.n.md)
+
+## October 2021 Cohort
+
+- [Dan Hembery](/October2021/Dan-Hembery.md)
