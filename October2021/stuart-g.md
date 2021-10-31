@@ -1,0 +1,5 @@
+- Name: Stuart Green
+- Likes: OSRS, Spicy Food, Hong Kong, Road Cycling
+- Dislikes: Lockdown restrictions
+- Favourite Quote: In real open source, you have the right to control your own destiny.
+- GitHub Profile URL: https://github.com/invertostew
