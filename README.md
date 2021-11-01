@@ -205,3 +205,4 @@
 - [Shaun Emery](/October2021/shaun-e.md)
 - [Asha Hirsi](/October/2021/asha-h.md)
 - [Emily Cotter](/October2021/Emily-Cotter.md)
+- [Nathan Humphreys](/October/2021/Nathan-H.md)
