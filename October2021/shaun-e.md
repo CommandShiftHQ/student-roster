@@ -1,5 +1,5 @@
 - Name: Shaun Emery
-- Likes: Running, travel, cooking, loud guitars and being outdoors ..git pull
+- Likes: Running, travel, cooking, loud guitars and being outdoors
 - Dislikes: Brexit, travel restrictions, anyone who doesn't respect others
 - Favourite Quote: We are just an advanced breed of monkeys on a minor planet of a very average star.
 - GitHub Profile URL: https://github.com/ShaunEmery68
