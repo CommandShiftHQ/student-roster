@@ -203,4 +203,5 @@
 - [Dan Hembery](/October2021/Dan-Hembery.md)
 - [Stuart Green](/October2021/stuart-g.md)
 - [Shaun Emery](/October2021/shaun-e.md)
-- [Asha Hirsi] (/October/2021/asha-h.md)
+- [Asha Hirsi](/October/2021/asha-h.md)
+- [Emily Cotter](/October2021/Emily-Cotter.md)
