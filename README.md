@@ -207,3 +207,4 @@
 - [Emily Cotter](/October2021/Emily-Cotter.md)
 - [Nathan Humphreys](/October/2021/Nathan-H.md)
 - [James Faulkner-Curry](October/2021/JFC.md)
+- [Dan Hope](/October/2021/Dan.H.md)
