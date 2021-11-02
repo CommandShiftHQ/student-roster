@@ -1,0 +1,5 @@
+- Name: July Moss
+- Likes: playing piano, lego, journaling, collecting fountain pens, running
+- Dislikes: Manchester's weather lol
+- Favourite Quote: "The way to get started is to quit talking and begin doing."
+- GitHub Profile URL: https://github.com/JMoss89
