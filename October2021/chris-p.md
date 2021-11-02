@@ -1,0 +1,5 @@
+- Name: Chris Peakin
+- Likes: video gaming, dancing, rock music, good TV/fiction, martial arts, bouldering, cat/birb videos
+- Dislikes: unwholesomeness, bad weather, cruelty, COVID-19
+- Favourite Quote: "Confronting fear is the destiny of a Jedi."
+- GitHub Profile URL: https://github.com/chris-peakin
