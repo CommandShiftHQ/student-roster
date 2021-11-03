@@ -1,0 +1,4 @@
+- Name: Robert Edwards  
+- Likes: Family - particularly my children, films, nature and self educating myself
+- Dislikes: Sleep (see family) and having money (also see family) and not knowing how things work
+- Favourite Quote: "It is a good thing for an uneducated man to read books of quotations." - Winston Churchill
