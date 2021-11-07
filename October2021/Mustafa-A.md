@@ -1,0 +1,5 @@
+- Name: Mustafa A
+- Likes: Learning new languages, Travelling, playing and watching football.
+- Dislikes: Winter and bad drivers.
+- Favourite Quote: "The life of this world is made up of three days: yesterday has gone with all that was done; tomorrow, you may never reach; but today is for you so do what you should do today.” Hassan Al Basri
+- GitHub Profile URL: https://github.com/Mustinelli
