@@ -1,0 +1,5 @@
+- Name: Steven Lomax
+- Likes: hiking, boardgames, rugby league (COYS! four-peat!)
+- Dislikes: buses, cold weather, January
+- Favourite Quote: "Fake it till you make it"
+- GitHub Profile URL: https://github.com/ste-lomax
