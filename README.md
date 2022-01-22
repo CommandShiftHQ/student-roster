@@ -216,3 +216,4 @@
 ## January 2022 Cohort
 
 - [Steven Lomax](january2022/steven-l.md)
+- [Vee Uye](/january2022/vee-u.md)
