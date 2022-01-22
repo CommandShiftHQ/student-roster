@@ -212,3 +212,6 @@
 - [July Moss](/October2021/july-moss.md)
 - [Robert Edwards](/October2021/Robert-E.md)
 - [Mustafa Abdillahi](/October2021/Mustafa-A.md)
+
+## January 2022 Cohort
+- [Vee Uye](/january2022/Vee-U.md)
