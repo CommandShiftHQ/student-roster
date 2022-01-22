@@ -215,4 +215,4 @@
 
 ## January 2022 Cohort
 
-- [Vee Uye](/january2022/Vee-U.md)
+- [Vee Uye](/january2022/vee-u.md)
