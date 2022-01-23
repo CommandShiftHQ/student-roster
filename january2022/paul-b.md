@@ -1,0 +1,5 @@
+- Name: Paul Beard
+- Likes: cups of tea, hiking, marmite
+- Dislikes: mushrooms
+- Favourite Quote: “Tell me what you want and I'll tell you how to manage without it."
+- GitHub Profile URL: https://github.com/pbeardey
