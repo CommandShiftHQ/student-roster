@@ -217,3 +217,4 @@
 
 - [Steven Lomax](january2022/steven-l.md)
 - [Vee Uye](/january2022/vee-u.md)
+- [Christine Elwes] (/january2022/christine-e.md)
