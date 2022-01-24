@@ -1,0 +1,5 @@
+- Name: Ed Adkins
+- Likes: Holidays with the family, walking in the peaks, tech, making things
+- Dislikes: Pigeons, queues
+- Favourite Quote: "So long, and thanks for all the fish"
+- GitHub Profile URL: https://github.com/ejmadkins

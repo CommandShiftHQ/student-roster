@@ -219,3 +219,4 @@
 - [Vee Uye](/january2022/vee-u.md)
 - [Christine Elwes](/january2022/christine-e.md)
 - [Paul Beard](/january2022/paul-b.md)
+- [Ed Adkins](/january2022/ed-a.md)
