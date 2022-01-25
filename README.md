@@ -220,3 +220,4 @@
 - [Christine Elwes](/january2022/christine-e.md)
 - [Paul Beard](/january2022/paul-b.md)
 - [Ed Adkins](/january2022/ed-a.md)
+- [Ash Askin](/january2022/ash-a.md)
