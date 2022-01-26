@@ -221,3 +221,6 @@
 - [Paul Beard](/january2022/paul-b.md)
 - [Ed Adkins](/january2022/ed-a.md)
 - [Phil Burkhill](/january2022/phil-b.md)
+- [Ash Askin](/january2022/ash-a.md)
+- [James Bowers](/january2022/james-b.md)
+- [Hande Gungor](/january2022/hande-g.md)
