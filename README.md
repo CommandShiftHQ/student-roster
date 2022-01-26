@@ -224,3 +224,4 @@
 - [Ash Askin](/january2022/ash-a.md)
 - [James Bowers](/january2022/james-b.md)
 - [Hande Gungor](/january2022/hande-g.md)
+- [Joe Smith] (/january2022/joe-s.md)
