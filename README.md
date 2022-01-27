@@ -227,3 +227,4 @@
 - [Joe Smith] (/january2022/joe-s.md)
 - [Tom Bogle](/january2022/tom-b.md)
 - [Cora Marcu](january2022/cora-m.md)
+- [Samuel Michael](/january2022/samuel-m.md)
