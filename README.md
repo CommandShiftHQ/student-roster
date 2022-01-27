@@ -179,7 +179,7 @@
 
 - [Mahmoud Jeilani](/may2021/mahmoud-j.md)
 - [Tom Ramsden](/may2021/tom-ramsden.md)
-- [Jen Stewart] (/may2021/jen-s.md)
+- [Jen Stewart](/may2021/jen-s.md)
 - [Ada Cameron](/may2021/ada-cameron.md)
 - [Khalid Safy](/may2021/khalid-s.md)
 - [Shabina Patel](/may2021/shabina-p.md)
@@ -224,7 +224,7 @@
 - [Ash Askin](/january2022/ash-a.md)
 - [James Bowers](/january2022/james-b.md)
 - [Hande Gungor](/january2022/hande-g.md)
-- [Joe Smith] (/january2022/joe-s.md)
+- [Joe Smith](/january2022/joe-s.md)
 - [Tom Bogle](/january2022/tom-b.md)
 - [Cora Marcu](january2022/cora-m.md)
 - [Samuel Michael](/january2022/samuel-m.md)
