@@ -226,3 +226,4 @@
 - [Hande Gungor](/january2022/hande-g.md)
 - [Joe Smith] (/january2022/joe-s.md)
 - [Tom Bogle](/january2022/tom-b.md)
+- [Cora Marcu](january2022/cora-m.md)
