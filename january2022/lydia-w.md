@@ -1,0 +1,4 @@
+- Name: Lydia Wallace   
+- Likes: Queer eye. Drag race. My son. Board games.
+- Dislikes: Rude people. Asking for help.
+- Favourite Quote: If you can't love yourself, how in the hell you gonna love somebody else?

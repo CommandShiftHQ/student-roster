@@ -229,3 +229,4 @@
 - [Cora Marcu](january2022/cora-m.md)
 - [Samuel Michael](/january2022/samuel-m.md)
 - [Ben Quinn] (/january2022/ben-q.md)
+- [Lydia Wallace] (/january2022/lydia-w.md)
