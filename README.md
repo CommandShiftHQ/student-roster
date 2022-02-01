@@ -231,3 +231,4 @@
 - [Ben Quinn] (/january2022/ben-q.md)
 - [Lydia Wallace] (/january2022/lydia-w.md)
 - [Casey Casse](/january2022/casey-c.md)
+- [Ali](/Jan2022/ali.md)
