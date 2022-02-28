@@ -236,7 +236,6 @@
 ## February 2022 Cohort
 
 - [Ryan Smillie] (February2022/Ryan-Smillie.md)
-- [Sara Cook](/February2022/sara-c.md)
 - [Ryan Smillie] (/february2022/ryan-s.md)
 - [Ryan Smillie](/february2022/ryan-s.md)
 - [Sara Cook](/february2022/sara-cook.md)
