@@ -232,3 +232,7 @@
 - [Lydia Wallace] (/january2022/lydia-w.md)
 - [Casey Casse](/january2022/casey-c.md)
 - [Ali](/January2022/ali.md)
+
+## February 2022 Cohort
+
+- [Ryan Smillie] (February2022/Ryan-Smillie.md)

@@ -1,0 +1,5 @@
+- Name: Ryan Smillie
+- Likes: Music, Gaming, Football, Squash
+- Dislikes: Olives & Cucumber
+- Favourite Quote: “In a time of deceit telling the truth is a revolutionary act.” ― George Orwell
+- GitHub Profile URL: https://github.com/RyanJSmillie
