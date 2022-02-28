@@ -1,5 +1,0 @@
-- Name: Sara Cook
-- Likes: baking, reading, hiking
-- Dislikes: being cold, rain, flying saucers (the candy)
-- Favourite Quote: not a quote but a ted talk - https://youtu.be/0snNB1yS3IE
-- GitHub Profile URL: https://github.com/sgcook
