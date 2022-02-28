@@ -235,4 +235,4 @@
 
 ## February 2022 Cohort
 
-- [Ryan Smillie] (/february2022/ryan-s.md)
+- [Ryan Smillie](/february2022/ryan-s.md)
