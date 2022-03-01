@@ -1,0 +1,5 @@
+- Name:khadra mohamed
+- Likes: cats, chocolate, sleeping.
+- Dislikes: Being hungry, cold feet, pickles.
+- Favourite Quote: Treat others as you wish to be treated.
+- GitHub Profile URL: https://github.com/KhadraMohamed
