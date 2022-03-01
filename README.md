@@ -235,12 +235,11 @@
 
 ## February 2022 Cohort
 
-- [Ryan Smillie] (February2022/Ryan-Smillie.md)
-- [Ryan Smillie] (/february2022/ryan-s.md)
+
 - [Ryan Smillie](/february2022/ryan-s.md)
 - [Sara Cook](/february2022/sara-cook.md)
 - [Bella Copland](/february2022/bella-copland.md)
-- [Anna Chan] (/february2022/anna-chan.md)
+- [Anna Chan](/february2022/anna-chan.md)
 - [Matthew Wiggins](/february2022/matt-wiggins.md)
 - [Emma Wenham](/february2022/emma-w.md)
 - [Maisie James](/february2022/maisie-j.md)
@@ -248,3 +247,4 @@
 - [Tom Haynes](/february2022/tom-haynes.md)
 - [Ross McNabb](/february2022/ross-mcnabb.md)
 - [Gabby Blake](/february2022/gabby-blake.md)
+- [Khadra Mohamed](/february2022/khadra-mohamed.md)
