@@ -239,5 +239,4 @@
 - [Ryan Smillie] (/february2022/ryan-s.md)
 - [Ryan Smillie](/february2022/ryan-s.md)
 - [Sara Cook](/february2022/sara-cook.md)
-- [Bella Copland](/february2022/bella-copland.md)
-- [Anna Chan] (/february2022/anna-chan.md)
+- [Emma Wenham](/february2022/emma-w.md)

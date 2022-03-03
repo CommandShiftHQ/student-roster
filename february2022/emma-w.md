@@ -1,0 +1,5 @@
+- Name: Emma Wenham
+- Likes: baking, reading
+- Dislikes: cold weather, rain
+- Favourite Quote: Life is like a box of chocolates. You never know what you’re going to get.
+- GitHub Profile URL: https://github.com/EmmaWenham
