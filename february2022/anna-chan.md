@@ -1,4 +1,4 @@
 - Name: Anna Chan
 - Likes: running, dancing, wine
 - Dislikes: racism, bad driving, capers
-- Favourite Quote: "Ask for what you want, not what you think you'll get given"
+- Favourite Quote: "Ask for what you want, not what you think you'll be get"
