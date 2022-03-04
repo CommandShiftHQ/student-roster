@@ -240,3 +240,4 @@
 - [Ryan Smillie](/february2022/ryan-s.md)
 - [Sara Cook](/february2022/sara-cook.md)
 - [Emma Wenham](/february2022/emma-w.md)
+- [Maisie James] (/february2022/maisie-j.md)
