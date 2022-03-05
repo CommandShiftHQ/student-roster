@@ -241,3 +241,4 @@
 - [Sara Cook](/february2022/sara-cook.md)
 - [Emma Wenham](/february2022/emma-w.md)
 - [Maisie James](/february2022/maisie-j.md)
+- [Anna Chan](/february2022/anna-chan.md)
