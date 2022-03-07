@@ -1,5 +1,0 @@
-- Name: Tanaka G
-- Likes: Chocolate 
-- Dislikes: Snakes and Mushrooms
-- Favourite Quote: "We Move"
-- GitHub Profile URL: https://github.com/tanaka-codes

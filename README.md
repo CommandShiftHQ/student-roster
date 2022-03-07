@@ -244,3 +244,4 @@
 - [Anna Chan](/february2022/anna-chan.md)
 - [Tom Haynes](/february2022/tom-haynes.md)
 - [Ross McNabb](/february2022/ross-mcnabb.md)
+- [Gabby Blake](/february2022/gabby-blake.md)
