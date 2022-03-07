@@ -242,3 +242,8 @@
 - [Bella Copland](/february2022/bella-copland.md)
 - [Anna Chan] (/february2022/anna-chan.md)
 - [Matthew Wiggins] (/february2022/matt-wiggins.md)
+- [Emma Wenham](/february2022/emma-w.md)
+- [Maisie James](/february2022/maisie-j.md)
+- [Anna Chan](/february2022/anna-chan.md)
+- [Tom Haynes](/february2022/tom-haynes.md)
+- [Ross McNabb](/february2022/ross-mcnabb.md)

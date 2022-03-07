@@ -1,0 +1,5 @@
+- Name: Maisie James
+- Likes: Cinema, Music, Art, Theory, Whisky, etc.
+- Dislikes: Crowds, Boats, Hummus, War, etc. 
+- Favourite Quote: "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read."
+- GitHub Profile URL: https://github.com/Maisienjames
