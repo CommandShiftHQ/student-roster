@@ -1,5 +1,0 @@
-- Name: Sam (short for Samantha)
-- Likes: homemade yogurt, pot plants, rhubarb
-- Dislikes: loud noise, lockdown
-- Favourite Quote: Computers are useless. They can only give you answers. (Picasso)
-- GitHub Profile URL: https://github.com/samtovey13

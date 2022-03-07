@@ -1,5 +1,0 @@
-- Name: Adaobi Ifeachor
-- Likes: Comic books about Scarlet Witch and The Vision, live music, entrepreneurship
-- Dislikes: Cleaning my bathroom
-- Favourite Quote: "When someone shows you who they are, believe them the first time" - Maya Angelou
-- GitHub Profile URL: https://github.com/adaobimedia
