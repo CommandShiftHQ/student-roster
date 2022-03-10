@@ -248,3 +248,4 @@
 - [Ross McNabb](/february2022/ross-mcnabb.md)
 - [Gabby Blake](/february2022/gabby-blake.md)
 - [Khadra Mohamed](/february2022/khadra-mohamed.md)
+- [Luke Henshaw](/february2022/luke-h.md)
