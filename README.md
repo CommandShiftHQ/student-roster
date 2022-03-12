@@ -248,3 +248,4 @@
 - [Tom Haynes](/february2022/tom-haynes.md)
 - [Ross McNabb](/february2022/ross-mcnabb.md)
 - [Gabby Blake](/february2022/gabby-blake.md)
+- [Lacy Grimes] (/february2022/Lacy-g.md)
