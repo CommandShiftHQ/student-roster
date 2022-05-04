@@ -250,3 +250,7 @@
 - [Lacy Grimes] (/february2022/Lacy-g.md)
 - [Khadra Mohamed](/february2022/khadra-mohamed.md)
 - [Luke Henshaw](/february2022/luke-h.md)
+
+# May 2022 Cohort
+
+- [Michael Shields](/may2022/may2022/michael-s.md)
