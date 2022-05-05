@@ -253,4 +253,4 @@
 
 # May 2022 Cohort
 
-- [Michael Shields](/may2022/may2022/michael-s.md)
+- [Michael Shields](/may2022/michael-s.md)
