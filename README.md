@@ -235,7 +235,6 @@
 
 ## February 2022 Cohort
 
-
 - [Ryan Smillie](/february2022/ryan-s.md)
 - [Sara Cook](/february2022/sara-cook.md)
 - [Bella Copland](/february2022/bella-copland.md)
@@ -254,3 +253,4 @@
 # May 2022 Cohort
 
 - [Michael Shields](/may2022/michael-s.md)
+- [Irfan Hussain](/may2022/irfan-h.md)
