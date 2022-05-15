@@ -254,3 +254,4 @@
 
 - [Michael Shields](/may2022/michael-s.md)
 - [Irfan Hussain](/may2022/irfan-h.md)
+- [Temitope Arise](/may2022/temitope-a.md)
