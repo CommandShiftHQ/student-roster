@@ -256,3 +256,4 @@
 - [Irfan Hussain](/may2022/irfan-h.md)
 - [Temitope Arise](/may2022/temitope-a.md)
 - [Luisa Oliveira] (/may2022/luisa-o.md)
+- [Abdu Gebril](/may2022/abdu-g.md)
