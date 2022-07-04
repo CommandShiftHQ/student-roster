@@ -261,3 +261,4 @@
 ## June 2022 Cohort
 
 - [Perry Baran](/june2022/perry-b.md)
+- [James Smith](/june2022/james-s.md)
