@@ -1,0 +1,5 @@
+- Name: Perry Baran
+- Likes: Music production and bouldering
+- Dislikes: flys
+- Favourite Quote: “Big beats are the best, get high all the time” - super hans
+- GitHub Profile URL: https://github.com/PerryBaran

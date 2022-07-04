@@ -258,6 +258,8 @@
 - [Luisa Oliveira] (/may2022/luisa-o.md)
 - [Abdu Gebril](/may2022/abdu-g.md)
 
-# June 2022 Cohort
+## June 2022 Cohort
 
+- [Perry Baran](/june2022/perry-b.md)
+- [James Smith](/june2022/james-s.md)
 - [Mark Whitehead] (/June2022/Mark-W.md)
