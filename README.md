@@ -257,3 +257,7 @@
 - [Temitope Arise](/may2022/temitope-a.md)
 - [Luisa Oliveira] (/may2022/luisa-o.md)
 - [Abdu Gebril](/may2022/abdu-g.md)
+
+# June 2022 Cohort
+
+- [Mark Whitehead] (/June2022/Mark-W.md)
