@@ -1,0 +1,5 @@
+- Name: Craig Hughes    
+- Likes: Playing guitar, travelling, reading, gaming.
+- Dislikes: tories.
+- Favourite Quote: "I am and always will be the optimist. The hoper of far-flung hopes, and the dreamer of improbable dreams"-11th Doctor
+- GitHub Profile URL: github.com/hughesblues94
