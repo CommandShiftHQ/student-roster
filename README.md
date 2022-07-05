@@ -263,3 +263,4 @@
 - [Perry Baran](/june2022/perry-b.md)
 - [James Smith](/june2022/james-s.md)
 - [Mark Whitehead] (/June2022/Mark-W.md)
+- [Craig Hughes](/june2022/craig-h.md)
