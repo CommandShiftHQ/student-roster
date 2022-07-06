@@ -265,3 +265,4 @@
 - [Mark Whitehead] (/June2022/Mark-W.md)
 - [Benjamin Seed](/June2022/Benjamin-s.md)
 - [Craig Hughes](/june2022/craig-h.md)
+- [Verity Brown](/june2022/Verity-B.md)
