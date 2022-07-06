@@ -266,4 +266,3 @@
 - [Benjamin Seed](/June2022/Benjamin-s.md)
 - [Craig Hughes](/june2022/craig-h.md)
 - [Verity Brown](/june2022/Verity-B.md)
-- [Deryn Rushworth](/june2022/Deryn-R.md)
