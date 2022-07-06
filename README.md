@@ -267,3 +267,4 @@
 - [Craig Hughes](/june2022/craig-h.md)
 - [Verity Brown](/june2022/Verity-B.md)
 - [Deryn Rushworth](/June2022/Deryn-R.md)
+- [Abdikarim Hussein](/June2022/Abdikarim.md)
