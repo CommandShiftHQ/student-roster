@@ -270,3 +270,4 @@
 - [Abdikarim Hussein](/June2022/Abdikarim.md)
 - [Claudiu Petre](/June2022/Claudiu-p.md)
 
+- [Aaron Morgan](/June2022/Aaron-M.md)
