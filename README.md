@@ -268,3 +268,4 @@
 - [Verity Brown](/june2022/Verity-B.md)
 - [Deryn Rushworth](/June2022/Deryn-R.md)
 - [Abdikarim Hussein](/June2022/Abdikarim.md)
+- [Aaron Morgan](/June2022/Aaron-M.md)
