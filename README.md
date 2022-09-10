@@ -272,3 +272,7 @@
 - [Claudiu Petre](/June2022/Claudiu-p.md)
 
 - [Aaron Morgan](/June2022/Aaron-M.md)
+
+## September 2022 Cohort
+
+-[Carlos Marfil](september2022/carlos-m.md)
