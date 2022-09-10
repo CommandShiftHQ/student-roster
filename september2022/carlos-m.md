@@ -1,5 +1,5 @@
 - Name: Carlos M
 - Likes: Playing piano, writing and Escape Rooms.
 - Dislikes: When I'm told I look tired.
-- Favourite Quote: "Look at all those chickens" - Girl pointing at a bunch of geese, (Vine, 2013).
+- Favourite Quote: "Look at all those chickens" - Girl pointing at a bunch of geese, ([Vine](https://youtube.com/shorts/NsLKQTh-Bqo), 2013).
 - GitHub Profile URL: https://github.com/C-Marfil
