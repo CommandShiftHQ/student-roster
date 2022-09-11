@@ -276,3 +276,4 @@
 ## September 2022 Cohort
 
 - [Carlos Marfil](september2022/carlos-m.md)
+- [HJ Kang](/september2022/hj-k.md)
