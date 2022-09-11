@@ -275,4 +275,4 @@
 
 ## September 2022 Cohort
 
--[Carlos Marfil](september2022/carlos-m.md)
+- [Carlos Marfil](september2022/carlos-m.md)
