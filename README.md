@@ -257,7 +257,7 @@
 - [Temitope Arise](/may2022/temitope-a.md)
 - [Luisa Oliveira] (/may2022/luisa-o.md)
 - [Abdu Gebril](/may2022/abdu-g.md)
-[Andy Jackson](/may2022/andy-j.md)
+  [Andy Jackson](/may2022/andy-j.md)
 
 ## June 2022 Cohort
 
@@ -277,3 +277,4 @@
 
 - [Carlos Marfil](september2022/carlos-m.md)
 - [HJ Kang](/september2022/hj-k.md)
+- [Yan Fung](/september2022/yan-f.md)
