@@ -1,0 +1,5 @@
+- Name: HJ Kang
+- Likes: Good food, politics, reading, travelling, running 
+- Dislikes: Irresponsible behaviour, politicians, cold and wet weather
+- Favourite Quote: "Fail early, fail often, but always fail forward." - John C. Maxwell
+- GitHub Profile URL: https://github.com/cocomarine
