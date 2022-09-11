@@ -1,0 +1,5 @@
+- Name: Yan Fung
+- Likes: Painting, reading & go for a long walk
+- Dislikes: rude people
+- Favourite Quote: “The capacity to learn is a gift; The ability to learn is a skill; The willingness to learn is a choice.” (Brian Herbert, House Harkonnen)
+- GitHub Profile URL: https://github.com/yan-fung
