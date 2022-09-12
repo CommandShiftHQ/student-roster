@@ -278,3 +278,4 @@
 - [Carlos Marfil](september2022/carlos-m.md)
 - [HJ Kang](/september2022/hj-k.md)
 - [Yan Fung](/september2022/yan-f.md)
+- [Dan Hancox](/september2022/dan-h.md)

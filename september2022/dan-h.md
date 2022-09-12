@@ -1,0 +1,5 @@
+- Name: Dan Hancox
+- Likes: Guitars, Dogs, beer and travelling
+- Dislikes: litter, racism
+- Favourite Quote: "Do as I say.. Not do as I do" -  my dad
+- GitHub Profile URL: 
