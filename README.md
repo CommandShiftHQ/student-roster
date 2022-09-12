@@ -279,3 +279,4 @@
 - [HJ Kang](/september2022/hj-k.md)
 - [Yan Fung](/september2022/yan-f.md)
 - [Dan Hancox](/september2022/dan-h.md)
+- [James Sample](/september2022/james-s.md)
