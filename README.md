@@ -281,3 +281,4 @@
 - [Dan Hancox](/september2022/dan-h.md)
 - [James Sample](/september2022/james-s.md)
 - [George Aldington](/september2022/george-a.md)
+- [Jamie Catto](september2022/jamie-c.md)
