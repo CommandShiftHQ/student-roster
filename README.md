@@ -280,3 +280,4 @@
 - [Yan Fung](/september2022/yan-f.md)
 - [Dan Hancox](/september2022/dan-h.md)
 - [James Sample](/september2022/james-s.md)
+- [George Aldington](/september2022/george-a.md)
