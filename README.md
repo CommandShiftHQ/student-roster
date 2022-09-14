@@ -282,4 +282,4 @@
 - [James Sample](/september2022/james-s.md)
 - [George Aldington](/september2022/george-a.md)
 - [Jamie Catto](september2022/jamie-c.md)
-- [Rayhan Elbeera](september2022/Rayhan-E.md)
+- [Rayhan Elbeera](september2022/rayhan-e.md)
