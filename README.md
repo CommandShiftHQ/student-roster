@@ -284,3 +284,4 @@
 - [Jamie Catto](september2022/jamie-c.md)
 - [Rayhan Elbeera](september2022/rayhan-e.md)
 - [Oliver Öquist](september2022/oliver-o.md)
+- [Paul Spencer](/september2022/paul-s.md)
