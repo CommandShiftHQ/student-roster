@@ -283,3 +283,4 @@
 - [George Aldington](/september2022/george-a.md)
 - [Jamie Catto](september2022/jamie-c.md)
 - [Rayhan Elbeera](september2022/rayhan-e.md)
+- [Oliver Öquist](september2022/oliver-o.md)
