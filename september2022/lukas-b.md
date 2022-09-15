@@ -1,0 +1,5 @@
+- Name: Lukas B
+- Likes: Gym, Mountain Climbing, Anime and Video Games
+- Dislikes: People tell me I need to smile more
+- Favourite Quote: "Just because you're trash doesn't mean you can't do great things. Its called garbage can, not garbage cannot."
+- GitHub Profile URL: https://github.com/Drawleeh
