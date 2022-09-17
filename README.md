@@ -288,3 +288,4 @@
 - [James Goodman](september2022/james-g.md)
 - [Paul Spencer](/september2022/paul-s.md)
 - [Harry Lomas](/september2022/harry-l.md)
+- [Carla Slattery](/september2022/carla-s.md)
