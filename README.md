@@ -290,4 +290,4 @@
 - [Harry Lomas](/september2022/harry-l.md)
 - [Carla Slattery](/september2022/carla-s.md)
 - [Carl Beckley] (september2022/carl-b.md)
-- [Baha Abdalwahed] (septemeber2022/Baha-A.md)
+- [Baha Abdalwahed](/september2022/baha-A.md)
