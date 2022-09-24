@@ -278,6 +278,57 @@
 - [Carlos Marfil](september2022/carlos-m.md)
 - [HJ Kang](/september2022/hj-k.md)
 - [Yan Fung](/september2022/yan-f.md)
+- [Samuel Michael](/january2022/samuel-m.md)
+- [Ben Quinn] (/january2022/ben-q.md)
+- [Lydia Wallace] (/january2022/lydia-w.md)
+- [Casey Casse](/january2022/casey-c.md)
+- [Ali](/January2022/ali.md)
+
+## February 2022 Cohort
+
+- [Ryan Smillie](/february2022/ryan-s.md)
+- [Sara Cook](/february2022/sara-cook.md)
+- [Bella Copland](/february2022/bella-copland.md)
+- [Anna Chan](/february2022/anna-chan.md)
+- [Matthew Wiggins](/february2022/matt-wiggins.md)
+- [Emma Wenham](/february2022/emma-w.md)
+- [Maisie James](/february2022/maisie-j.md)
+- [Anna Chan](/february2022/anna-chan.md)
+- [Tom Haynes](/february2022/tom-haynes.md)
+- [Ross McNabb](/february2022/ross-mcnabb.md)
+- [Gabby Blake](/february2022/gabby-blake.md)
+- [Lacy Grimes] (/february2022/Lacy-g.md)
+- [Khadra Mohamed](/february2022/khadra-mohamed.md)
+- [Luke Henshaw](/february2022/luke-h.md)
+
+# May 2022 Cohort
+
+- [Michael Shields](/may2022/michael-s.md)
+- [Irfan Hussain](/may2022/irfan-h.md)
+- [Temitope Arise](/may2022/temitope-a.md)
+- [Luisa Oliveira] (/may2022/luisa-o.md)
+- [Abdu Gebril](/may2022/abdu-g.md)
+  [Andy Jackson](/may2022/andy-j.md)
+
+## June 2022 Cohort
+
+- [Perry Baran](/june2022/perry-b.md)
+- [James Smith](/june2022/james-s.md)
+- [Mark Whitehead] (/June2022/Mark-W.md)
+- [Benjamin Seed](/June2022/Benjamin-s.md)
+- [Craig Hughes](/june2022/craig-h.md)
+- [Verity Brown](/june2022/Verity-B.md)
+- [Deryn Rushworth](/June2022/Deryn-R.md)
+- [Abdikarim Hussein](/June2022/Abdikarim.md)
+- [Claudiu Petre](/June2022/Claudiu-p.md)
+
+- [Aaron Morgan](/June2022/Aaron-M.md)
+
+## September 2022 Cohort
+
+- [Carlos Marfil](september2022/carlos-m.md)
+- [HJ Kang](/september2022/hj-k.md)
+- [Yan Fung](/september2022/yan-f.md)
 - [Dan Hancox](/september2022/dan-h.md)
 - [James Sample](/september2022/james-s.md)
 - [George Aldington](/september2022/george-a.md)
@@ -291,3 +342,4 @@
 - [Carla Slattery](/september2022/carla-s.md)
 - [Carl Beckley](/september2022/carl-b.md)
 - [Baha Abdalwahed](/september2022/baha-A.md)
+- [Mario Cooper](/september2022/mario-c.md)
