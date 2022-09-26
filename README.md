@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Manchester Codes Student Roster
 
 ## May 2018 Cohort
@@ -343,3 +344,10 @@
 - [Carl Beckley](/september2022/carl-b.md)
 - [Baha Abdalwahed](/september2022/baha-A.md)
 - [Mario Cooper](/september2022/mario-c.md)
+=======
+Name: Mark Evans
+Likes: Bitcoin, Travel, hopefully coding
+Dislikes: Government
+Favourite Quote: "America is a nation that can be defined in a single word - "Asinafuthiman-ahahfoot" - Joe Biden
+Github profile URL:
+>>>>>>> 6533585484a4f1ce27f69089307a959f9b027b6b
