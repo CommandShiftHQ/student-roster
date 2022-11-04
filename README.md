@@ -344,6 +344,11 @@
 - [Carl Beckley](/september2022/carl-b.md)
 - [Baha Abdalwahed](/september2022/baha-A.md)
 - [Mario Cooper](/september2022/mario-c.md)
+
+## October 2022 Cohort
+
+- [David Cheung](/October2022/David-C.md)
+
 =======
 Name: Mark Evans
 Likes: Bitcoin, Travel, hopefully coding
