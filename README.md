@@ -348,6 +348,7 @@
 ## October 2022 Cohort
 
 - [David Cheung](/October2022/David-C.md)
+- [Chris Edwards](/October2022/Chris-E.md)
 
 =======
 Name: Mark Evans
