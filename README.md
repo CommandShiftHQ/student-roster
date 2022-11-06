@@ -349,7 +349,7 @@
 
 - [David Cheung](/October2022/David-C.md)
 - [Chris Edwards](/October2022/Chris-E.md)
-
+- [Tom Wilkinson](/October2022/Tom-W.md)
 =======
 Name: Mark Evans
 Likes: Bitcoin, Travel, hopefully coding
