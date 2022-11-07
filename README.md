@@ -353,5 +353,5 @@
 - [Tom Wilkinson](/October2022/Tom-W.md)
 - [Rob Barber](/October2022/Rob-B.md)
 - [Laura Crawford](/October2022/Laura-C.md)
-
+- [Josie Goodby](/October2022/Josie-G.md)
 # portfolio
