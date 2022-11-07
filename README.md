@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Manchester Codes Student Roster
 
 ## May 2018 Cohort
@@ -350,5 +351,9 @@
 - [David Cheung](/October2022/David-C.md)
 - [Chris Edwards](/October2022/Chris-E.md)
 - [Tom Wilkinson](/October2022/Tom-W.md)
+- [Rob Barber](/October2022/Rob-B.md)
+- [Laura Crawford](/October2022/Laura-C.md)
+- [Tarndeep V](/October2022/Tarndeep-V.md)
+- [Greg C](/October2022/Greg-C.md)
 
 # portfolio
