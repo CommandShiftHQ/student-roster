@@ -352,6 +352,7 @@
 - [Chris Edwards](/October2022/Chris-E.md)
 - [Tom Wilkinson](/October2022/Tom-W.md)
 - [Rob Barber](/October2022/Rob-B.md)
+- [Laura Crawford](/October2022/Laura-C.md)
 - [Tarndeep V](/October2022/Tarndeep-V.md)
 
 # portfolio
