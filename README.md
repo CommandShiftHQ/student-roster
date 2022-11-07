@@ -348,7 +348,7 @@
 ## October 2022 Cohort
 
 - [David Cheung](/October2022/David-C.md)
-- [Jack Mills Davidson] (/October2022/jack-d.md)  
+- [Jack Mills Davidson](/October2022/jack-d.md)  
 
 =======
 Name: Mark Evans
