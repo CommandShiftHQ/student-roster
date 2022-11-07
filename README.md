@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Manchester Codes Student Roster
 
@@ -354,4 +353,9 @@
 - [Rob Barber](/October2022/Rob-B.md)
 - [Laura Crawford](/October2022/Laura-C.md)
 - [Josie Goodby](/October2022/Josie-G.md)
+- [Edward Crowther](/October2022/Ed-C.md)
+- [Tarndeep V](/October2022/Tarndeep-V.md)
+- [Greg C](/October2022/Greg-C.md)
+- [Anthony Moran](/October2022/Tony-M.md)
+
 # portfolio
