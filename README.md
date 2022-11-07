@@ -351,6 +351,6 @@
 - [David Cheung](/October2022/David-C.md)
 - [Chris Edwards](/October2022/Chris-E.md)
 - [Tom Wilkinson](/October2022/Tom-W.md)
-- [Rob Barber](/October2022/Rob.B.md)
+- [Rob Barber](/October2022/Rob-B.md)
 
 # portfolio
