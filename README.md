@@ -361,3 +361,4 @@
 - [Dhivian Pirabaharan](/October2022/Dhivian-P.md)
 - [Lewis Smith](/October2022/Lewis-S.md)
 # portfolio
+-[Sarah Moran](/October2022/Sarah-M.md)
