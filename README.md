@@ -359,4 +359,5 @@
 - [Anthony Moran](/October2022/Tony-M.md)
 - [Abi Turner](/October2022/Abi-T.md)
 - [Dhivian Pirabaharan](/October2022/Dhivian-P.md)
+- [Lewis Smith](/October2022/Lewis-S.md)
 # portfolio
