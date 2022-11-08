@@ -356,5 +356,5 @@
 - [Tarndeep V](/October2022/Tarndeep-V.md)
 - [Greg C](/October2022/Greg-C.md)
 - [Anthony Moran](/October2022/Tony-M.md)
-
+- [Abi Turner](/October2022/Abi-T.md)
 # portfolio
