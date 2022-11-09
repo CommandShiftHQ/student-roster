@@ -348,6 +348,7 @@
 ## October 2022 Cohort
 
 - [David Cheung](/October2022/David-C.md)
+- [Jack Mills Davidson](/October2022/jack-d.md)  
 - [Chris Edwards](/October2022/Chris-E.md)
 - [Tom Wilkinson](/October2022/Tom-W.md)
 - [Rob Barber](/October2022/Rob-B.md)
@@ -363,3 +364,4 @@
 - [Sarah Moran](/October2022/Sarah-M.md)
 - [Somia Hussain](October2022/README.md)
 - [Anton Velchev](/October2022/Anton-V.md)
+- [Rachmann Joubert](October2022/Rachmann-J.md)
