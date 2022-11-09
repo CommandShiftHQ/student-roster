@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Manchester Codes Student Roster
 
 ## May 2018 Cohort
@@ -349,11 +349,14 @@
 
 - [David Cheung](/October2022/David-C.md)
 - [Jack Mills Davidson](/October2022/jack-d.md)  
+- [Chris Edwards](/October2022/Chris-E.md)
+- [Tom Wilkinson](/October2022/Tom-W.md)
+- [Rob Barber](/October2022/Rob-B.md)
+- [Laura Crawford](/October2022/Laura-C.md)
+- [Josie Goodby](/October2022/Josie-G.md)
+- [Edward Crowther](/October2022/Ed-C.md)
+- [Tarndeep V](/October2022/Tarndeep-V.md)
+- [Greg C](/October2022/Greg-C.md)
+- [Anthony Moran](/October2022/Tony-M.md)
 
-=======
-Name: Mark Evans
-Likes: Bitcoin, Travel, hopefully coding
-Dislikes: Government
-Favourite Quote: "America is a nation that can be defined in a single word - "Asinafuthiman-ahahfoot" - Joe Biden
-Github profile URL:
->>>>>>> 6533585484a4f1ce27f69089307a959f9b027b6b
+# portfolio
