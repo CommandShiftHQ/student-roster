@@ -358,5 +358,9 @@
 - [Tarndeep V](/October2022/Tarndeep-V.md)
 - [Greg C](/October2022/Greg-C.md)
 - [Anthony Moran](/October2022/Tony-M.md)
-
-# portfolio
+- [Abi Turner](/October2022/Abi-T.md)
+- [Dhivian Pirabaharan](/October2022/Dhivian-P.md)
+- [Lewis Smith](/October2022/Lewis-S.md)
+- [Sarah Moran](/October2022/Sarah-M.md)
+- [Somia Hussain](October2022/README.md)
+- [Rachmann Joubert](October2022/Rachmann-J.md)
