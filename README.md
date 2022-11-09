@@ -365,3 +365,4 @@
 - [Somia Hussain](October2022/README.md)
 - [Anton Velchev](/October2022/Anton-V.md)
 - [Rachmann Joubert](October2022/Rachmann-J.md)
+- [Ernesto Angustia](October2022/Ernesto-A.md)
