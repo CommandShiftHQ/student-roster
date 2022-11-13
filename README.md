@@ -365,3 +365,6 @@
 - [Anton Velchev](/October2022/Anton-V.md)
 - [Rachmann Joubert](October2022/Rachmann-J.md)
 - [Ernesto Angustia](October2022/Ernesto-A.md)
+- [Yan Ting Lam](October2022/Andy-L.md)
+- [Karen Croston](/October2022/Karen-C.md)
+- [Mike Brewer](/October2022/Mike-B.md)
