@@ -368,3 +368,4 @@
 - [Yan Ting Lam](October2022/Andy-L.md)
 - [Karen Croston](/October2022/Karen-C.md)
 - [Mike Brewer](/October2022/Mike-B.md)
+- [Abdirizak Issa](/October2022/Abdirizak-I.md)
