@@ -372,3 +372,4 @@
 
 ## January 2023 Cohort 
 - [Dave Bratby](/January2023/Dave-B.md)
+- [Benj Speight](/January2023/benj-speight.md)
