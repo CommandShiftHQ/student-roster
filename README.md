@@ -372,3 +372,4 @@
 
 ## January 2023 Cohort 
 - [Dave Bratby](/January2023/Dave-B.md)
+- [Jose Wills] (/January2023/Jose-W.md)
