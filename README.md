@@ -373,3 +373,4 @@
 ## January 2023 Cohort 
 - [Dave Bratby](/January2023/Dave-B.md)
 - [David Ding](/january2023/david-d.md)
+- [Camilla Priest-Stephens](/January2023/Camilla-PS.md)
