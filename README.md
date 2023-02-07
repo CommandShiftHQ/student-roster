@@ -382,3 +382,4 @@
 - [Amy Smith](/January2023/amy-s.md)
 - [Josh Kuhn](/January2023/Matt-M.md)
 - [Max Tauroza](/january2023/Max-T.md)
+- [Armghan Zubair](/January2023/Armghan-Z.md)
