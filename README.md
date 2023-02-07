@@ -373,6 +373,7 @@
 ## January 2023 Cohort 
 - [Dave Bratby](/January2023/Dave-B.md)
 - [Benj Speight](/January2023/benj-speight.md)
+- [Jose Wills] (/January2023/Jose-W.md)
 - [David Ding](/january2023/david-d.md)
 - [Camilla Priest-Stephens](/January2023/Camilla-PS.md)
 - [Oliver Owen](/January2023/Oliver.md)
