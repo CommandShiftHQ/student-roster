@@ -379,4 +379,4 @@
 - [Oliver Owen](/January2023/Oliver.md)
 - [Emma Wilkinson](/January2023/Emma-W.md)
 - [Matt Mullins](/January2023/Matt-M.md)
-
+- [Max Tauroza](/january2023/Max-T.md)
