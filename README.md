@@ -372,11 +372,13 @@
 
 ## January 2023 Cohort 
 - [Dave Bratby](/January2023/Dave-B.md)
+- [Jose Wills](/January2023/Jose-W.md)
 - [Benj Speight](/January2023/benj-speight.md)
-- [Jose Wills] (/January2023/Jose-W.md)
 - [David Ding](/january2023/david-d.md)
 - [Camilla Priest-Stephens](/January2023/Camilla-PS.md)
 - [Oliver Owen](/January2023/Oliver.md)
 - [Emma Wilkinson](/January2023/Emma-W.md)
 - [Matt Mullins](/January2023/Matt-M.md)
 - [Amy Smith](/January2023/amy-s.md)
+- [Josh Kuhn](/January2023/Matt-M.md)
+- [Max Tauroza](/january2023/Max-T.md)
