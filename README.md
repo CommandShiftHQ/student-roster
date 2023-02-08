@@ -383,3 +383,4 @@
 - [Josh Kuhn](/January2023/Matt-M.md)
 - [Max Tauroza](/january2023/Max-T.md)
 - [Armghan Zubair](/January2023/Armghan-Z.md)
+- [Jordan Noble](/January2023/Jordan-N.md)
