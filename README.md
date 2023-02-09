@@ -384,3 +384,4 @@
 - [Max Tauroza](/january2023/Max-T.md)
 - [Armghan Zubair](/January2023/Armghan-Z.md)
 - [Jordan Noble](/January2023/Jordan-N.md)
+- [Asif Islam](/January2023/Asif-I.md)
