@@ -391,3 +391,7 @@
 >>>>>>> ff58462 (introduced myself - Jenny R)
 - [Umar Farooq](/January2023/Umar-F.md)
 - [Anthony Penketh](/January2023/Anthony-P.md)
+
+## March 2023 Cohort
+
+- [Dal Bahia](/March2023/dal-b.md)
