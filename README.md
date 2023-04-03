@@ -399,3 +399,4 @@
 - [Holly Mathieson](March2023/holly-m.md)
 - [Billy Walker](/March2023/billy-w.md)
 - [Andrea Hurren](/March2023/andrea-h.md)
+- [Lois Adea](/March2023/lois-a.md)
