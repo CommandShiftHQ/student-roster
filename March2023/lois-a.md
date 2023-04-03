@@ -1,5 +1,5 @@
-Name: Lois Adea
-Likes: Spending time with my son, Traveling, Trying out new foods, Listening to music.
-Dislikes: Closed spaces
-Favourite Quote: "If you want to go fast, go alone. If you want to go far, go together." - African Proverb
-GitHub Profile URL: https://github.com/loisadea
+- Name: Lois Adea
+- Likes: Spending time with my son, Traveling, Trying out new foods, Listening to music.
+- Dislikes: Closed spaces
+- Favourite Quote: "If you want to go fast, go alone. If you want to go far, go together." - African Proverb
+- GitHub Profile URL: https://github.com/loisadea
