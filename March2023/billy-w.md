@@ -1,0 +1,5 @@
+- Name: Billy Walker
+- Likes: Houseplants, my cat Sergei, cooking
+- Dislikes: Cheap shower gel
+- Favourite Quote: “Be excellent to each other." Bill and Ted.
+- GitHub Profile URL: https://github.com/Korjubzot
