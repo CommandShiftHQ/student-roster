@@ -395,3 +395,4 @@
 ## March 2023 Cohort
 
 - [Dal Bahia](/March2023/dal-b.md)
+- [Louise Osborne](/March2023/Louise-O.md)
