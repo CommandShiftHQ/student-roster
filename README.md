@@ -382,13 +382,10 @@
 - [Amy Smith](/January2023/amy-s.md)
 - [Josh Kuhn](/January2023/Matt-M.md)
 - [Max Tauroza](/january2023/Max-T.md)
-<<<<<<< HEAD
 - [Armghan Zubair](/January2023/Armghan-Z.md)
 - [Jordan Noble](/January2023/Jordan-N.md)
 - [Asif Islam](/January2023/Asif-I.md)
-=======
 - [Jenny Rafferty](/January2023/Jenny-R.md)
->>>>>>> ff58462 (introduced myself - Jenny R)
 - [Umar Farooq](/January2023/Umar-F.md)
 - [Anthony Penketh](/January2023/Anthony-P.md)
 
