@@ -1,0 +1,4 @@
+- Name:Max Staite
+- Likes:Formula 1, Football, Gaming
+- Dislikes:Mushrooms
+- Favourite Quote:"I must not fear. Fear is the mind-killer"
