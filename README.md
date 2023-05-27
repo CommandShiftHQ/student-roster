@@ -405,3 +405,4 @@
 - [Tim Bracey](/may2023/tim-b.md)
 - [Ryan G](/may2023/ryan-g.md)
 - [Wasiu B](may2023/wasiu-b.md)
+- [Richard H](may2023/richard-h.md)
