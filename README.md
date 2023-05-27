@@ -370,7 +370,8 @@
 - [Mike Brewer](/October2022/Mike-B.md)
 - [Abdirizak Issa](/October2022/Abdirizak-I.md)
 
-## January 2023 Cohort 
+## January 2023 Cohort
+
 - [Dave Bratby](/January2023/Dave-B.md)
 - [Jose Wills](/January2023/Jose-W.md)
 - [Benj Speight](/January2023/benj-speight.md)
@@ -403,3 +404,4 @@
 
 - [Tim Bracey](/may2023/tim-b.md)
 - [Ryan G](/may2023/ryan-g.md)
+- [Wasiu B](may2023/wasiu-b.md)
