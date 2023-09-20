@@ -2,4 +2,4 @@
 - Likes: Music, books, languages (both programming and otherwise!)
 - Dislikes: Hot weather, mushrooms
 - Favourite Quote: The cost of procrastination is the life you could have lived.
-- GitHub Profile URL: https://github.com/LouiseOsborne
+- GitHub Profile URL
