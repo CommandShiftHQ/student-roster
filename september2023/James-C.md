@@ -1,5 +1,5 @@
-- Name: James Carrier
-- Likes: Football, F1 (not Max!), Coding (of course), Lazy sunday mornings
-- Dislikes: Anything creepy crawly, Hot weather, Cold weather
-- Favourite Quote: "It is what it is" & "This that and the other" Co-worker 
+- Name: James Carrier.
+- Likes: Football, F1 (not Max!), Coding (of course), Lazy sunday mornings.
+- Dislikes: Anything creepy crawly, Hot weather, Cold weather.
+- Favourite Quote: "It is what it is" & "This that and the other" - Co-worker.
 - GitHub Profile URL: https://www.github.com/jic191278
