@@ -410,5 +410,3 @@
 -[Mario Pacheco](may2023/Mario-pz.md)
 
 ## September 2023 Cohort
-
-- [Chris O'Neill](september2023/Chris-O.md)
