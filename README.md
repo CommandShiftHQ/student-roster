@@ -410,8 +410,5 @@
 -[Mario Pacheco](may2023/Mario-pz.md)
 
 ## September 2023 Cohort
-<<<<<<< HEAD
-=======
-
+- [James Carrier] (/September2023/James-C.md)
 - [Nicholas Barfoot](/September2023/Nicholas-B.md)
->>>>>>> d4853ee (Hello everyone! - Nicholas)
