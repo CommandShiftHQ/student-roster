@@ -412,3 +412,4 @@
 ## September 2023 Cohort
 - [James Carrier] (/September2023/James-C.md)
 - [Nicholas Barfoot](/September2023/Nicholas-B.md)
+- [Ben Harrison](/September2023/Ben-H.md)

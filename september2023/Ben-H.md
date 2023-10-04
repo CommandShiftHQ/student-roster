@@ -1,0 +1,5 @@
+- Name: Ben Harrison
+- Likes: fitness, learning new skills and sunshine
+- Dislikes: traffic jams, when I can't get to sleep at night
+- Favourite Quote: "Life is trying things to see if they work." 
+- GitHub Profile URL: https://www.github.com/Ben-H123
