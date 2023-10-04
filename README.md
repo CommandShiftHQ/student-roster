@@ -416,3 +416,4 @@
 - [Chris O'Neill](September2023/Chris-O.md)
 - [Thasnima Begum](September2023/thasnima-b.md)
 - [Ash Daniels](September2023/Ash-Daniels.md)
+- [Abi Jama] (September2023/Abi-Jama.md)
