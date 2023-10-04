@@ -410,6 +410,6 @@
 -[Mario Pacheco](may2023/Mario-pz.md)
 
 ## September 2023 Cohort
-- [James Carrier] (/September2023/James-C.md)
+- [James Carrier](/September2023/James-C.md)
 - [Nicholas Barfoot](/September2023/Nicholas-B.md)
 - [Ben Harrison](/September2023/Ben-H.md)
