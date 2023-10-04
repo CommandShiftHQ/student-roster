@@ -1,0 +1,5 @@
+- Name: Ash Daniels
+- Likes: Reading, Pop Culture, Football (English & American)
+- Dislikes: Lateness
+- Favourite Quote: "All our dreams can come true, if we have the courage to pursue them" Walt Disney
+- GitHub Profile URL: https://github.com/ashdaniels25
