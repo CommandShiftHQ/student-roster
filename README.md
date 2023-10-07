@@ -413,4 +413,11 @@
 - [James Carrier](/September2023/James-C.md)
 - [Nicholas Barfoot](/September2023/Nicholas-B.md)
 - [Ben Harrison](/September2023/Ben-H.md)
+<<<<<<< HEAD
 - [Chris O'Neill](september2023/Chris-O.md)
+=======
+- [Chris O'Neill](September2023/Chris-O.md)
+- [Thasnima Begum](September2023/thasnima-b.md)
+- [Ash Daniels](September2023/Ash-Daniels.md)
+- [Abi Jama] (September2023/Abi-Jama.md)
+>>>>>>> d94499b5101ac1a5898dbd85d884b94971534489
