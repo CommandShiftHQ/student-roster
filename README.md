@@ -417,4 +417,5 @@
 - [Thasnima Begum](september2023/thasnima-b.md)
 - [Ash Daniels](september2023/Ash-Daniels.md)
 - [Abi Jama](september2023/Abi-Jama.md)
+- [Kevin Greenup](/september2023/Kevin-G.md)
 
